@@ -1,0 +1,235 @@
+{
+  "strategies": [
+    {
+      "id": "u6-u8-fun-dribbling-adventures",
+      "name": "Fun Dribbling Adventures",
+      "age_group": "U6-U8",
+      "category": "offense",
+      "difficulty": "beginner",
+      "description": "This strategy introduces young players to ball control through imaginative, game-based activities. Players learn to keep the ball close while moving, using both feet to navigate around cones, teammates, and defenders. The focus is on building confidence with the ball at their feet through fun challenges like 'sharks and minnows' or 'treasure hunt dribbling.' Coaches emphasize looking up occasionally while dribbling, changing direction, and protecting the ball. Success is measured by smiles and engagement rather than perfection. This foundation builds the technical skills needed for future tactical understanding while keeping the experience joyful and age-appropriate for developing players.",
+      "key_points": [
+        "Use both feet to dribble - practice with left and right foot equally during activities",
+        "Keep the ball close - touch it every 1-2 steps to maintain control",
+        "Look up between touches - develop awareness of space and other players",
+        "Change direction often - use inside and outside of foot to turn away from pressure",
+        "Make it fun - incorporate games, stories, and challenges to maintain engagement",
+        "Celebrate effort - praise attempts and improvement rather than just outcomes",
+        "Small-sided games - use 3v3 or 4v4 formats where every player touches the ball frequently"
+      ],
+      "implementation_guide": "Start each session with a fun warm-up game involving dribbling through gates or around cones. Progress to small-sided games where dribbling is encouraged and rewarded. Use positive reinforcement and keep instructions simple with one coaching point at a time. Allow plenty of touches on the ball for every player. End with a celebration game where players can showcase their new dribbling moves in a low-pressure environment.",
+      "formations": ["1-2-1", "1-1-2", "2-2-2"],
+      "applicable_age_groups": ["U6", "U7", "U8"]
+    },
+    {
+      "id": "u6-u8-stay-together-defense",
+      "name": "Stay Together Defense",
+      "age_group": "U6-U8",
+      "category": "defense",
+      "difficulty": "beginner",
+      "description": "This defensive strategy teaches young players the fundamental concept of staying close to teammates and moving as a group toward the ball. Rather than complex positioning, players learn to 'swarm' toward the ball together while maintaining some spacing. The emphasis is on teamwork and communication through simple calls like 'ball!' or 'help!' Players understand that defending is a team effort and that staying together makes them stronger. Coaches use visual cues like colored cones or zones to help players understand where to be. The strategy builds social skills and basic spatial awareness while introducing the concept that defense requires cooperation and collective effort.",
+      "key_points": [
+        "Move together as a team - when one player goes to the ball, others follow nearby",
+        "Stay between the ball and your goal - simple positioning concept for young minds",
+        "Talk to teammates - encourage calling 'I've got ball!' or 'Help me!' during play",
+        "Don't all chase the ball - introduce the idea of one player pressuring while others support",
+        "Celebrate good defending - recognize when the team wins the ball back together",
+        "Use visual markers - cones or zones help players understand defensive areas",
+        "Keep it positive - frame defending as helping teammates rather than stopping opponents"
+      ],
+      "implementation_guide": "Begin with games where players practice moving together as a group following a leader. Progress to activities where 2-3 defenders work together to win the ball from attackers in a small area. Use simple language and visual demonstrations. Praise collective defending efforts and teamwork. Keep groups small so every player is actively involved. Reinforce the concept through repetition in fun, game-based scenarios rather than static drills.",
+      "formations": ["1-2-1", "2-2-2", "1-1-2"],
+      "applicable_age_groups": ["U6", "U7", "U8"]
+    },
+    {
+      "id": "u10-triangle-passing",
+      "name": "Triangle Passing",
+      "age_group": "U10",
+      "category": "tactical",
+      "difficulty": "intermediate",
+      "description": "Triangle passing introduces players to the geometric principles of possession soccer. Players learn to position themselves in triangular shapes around the ball, creating multiple passing options and angles. This strategy emphasizes constant movement, support play, and understanding passing lanes. Players develop the ability to recognize when to pass, when to dribble, and how to create space for teammates. The triangle concept applies across the field - in defense, midfield, and attack. Players learn that good positioning off the ball is as important as technical skill on the ball. This tactical foundation builds decision-making abilities and helps players understand how to maintain possession through intelligent movement and positioning.",
+      "key_points": [
+        "Create triangles constantly - always have two passing options forming a triangle with the ball carrier",
+        "Move after passing - don't stand still, relocate to create a new triangle",
+        "Check to the ball - make angled runs toward the ball carrier to receive passes",
+        "Use both feet - be comfortable receiving and passing with either foot to maintain flow",
+        "Play forward when possible - look for the forward pass first, then sideways or back",
+        "Communicate constantly - call for the ball and direct teammates into better positions",
+        "Recognize when triangles break - adjust positioning quickly when shape is lost"
+      ],
+      "implementation_guide": "Start with 3v1 rondo exercises where players must maintain a triangle shape while keeping possession. Progress to 4v2 and 5v3 scenarios. Use small-sided games with conditions that reward consecutive passes or playing through triangles. Mark out zones on the field and challenge players to create triangles in each zone. Video analysis of professional games can help players visualize triangle patterns. Regularly freeze play to highlight good and poor triangle positioning.",
+      "formations": ["3-2-2", "2-3-2", "4-3-1"],
+      "applicable_age_groups": ["U10", "U11"]
+    },
+    {
+      "id": "u10-zone-defense-basics",
+      "name": "Zone Defense Basics",
+      "age_group": "U10",
+      "category": "defense",
+      "difficulty": "intermediate",
+      "description": "Zone defense teaches players to defend spaces rather than simply chasing opponents. Each player is responsible for a specific area of the field and defends any attacker who enters their zone. This strategy develops spatial awareness, communication, and collective defensive responsibility. Players learn to recognize when to step to pressure the ball and when to hold position. The concept includes understanding defensive lines, compactness, and how to shift as a unit when the ball moves. Players begin to appreciate that defending is about controlling space and limiting opponent options rather than just winning individual battles. This foundation prepares players for more advanced defensive systems while building tactical intelligence.",
+      "key_points": [
+        "Defend your zone first - stay in your assigned area unless the ball enters it",
+        "Shift together - when the ball moves, the whole team shifts to maintain compactness",
+        "Pressure the ball carrier - the player in whose zone the ball is must step to pressure",
+        "Cover behind - teammates behind the pressuring player provide defensive support",
+        "Communicate constantly - call out runners entering zones and coordinate switches",
+        "Stay compact - minimize space between defensive lines to limit passing options",
+        "Recognize when to step - understand triggers for leaving your zone to pressure or intercept"
+      ],
+      "implementation_guide": "Use visual markers to define zones on the practice field. Start with static positioning exercises where players identify their zones. Progress to walking-pace scenarios where the ball moves and players practice shifting together. Gradually increase tempo to game speed. Use small-sided games with zone restrictions to reinforce concepts. Freeze play regularly to discuss positioning and decision-making. Emphasize collective success over individual tackles won.",
+      "formations": ["2-3-2", "3-2-2", "4-3-1"],
+      "applicable_age_groups": ["U10", "U11"]
+    },
+    {
+      "id": "u12-wing-play-crossing",
+      "name": "Wing Play and Crossing",
+      "age_group": "U12",
+      "category": "offense",
+      "difficulty": "intermediate",
+      "description": "Wing play and crossing develops the ability to attack down the flanks and deliver quality service into dangerous areas. Players learn to exploit wide spaces, take on defenders in 1v1 situations, and deliver crosses with proper timing and technique. The strategy includes understanding when to cross early, when to cut back, and how to vary delivery. Supporting players learn to time runs into the box, attack different zones, and finish crosses effectively. Wingers develop the ability to read defensive positioning and choose appropriate crossing techniques - driven, lofted, or cut-back. This strategy adds width to attacks, stretches defenses, and creates goal-scoring opportunities from wide positions while developing technical crossing and finishing skills.",
+      "key_points": [
+        "Get wide and high - push up the touchline to stretch the defense and create crossing angles",
+        "Take defenders on - use 1v1 skills to beat fullbacks and create crossing opportunities",
+        "Vary your crosses - use driven crosses, lofted balls, and cut-backs based on defensive positioning",
+        "Cross with purpose - aim for specific zones (near post, far post, penalty spot) not just 'into the box'",
+        "Time your runs - attackers must arrive in the box as the cross is delivered, not too early or late",
+        "Attack different zones - near post runner, far post runner, edge of box for clearances",
+        "Support the winger - provide overlapping runs and passing options to create 2v1 situations"
+      ],
+      "implementation_guide": "Practice crossing technique with repetition - both feet, various distances and angles. Set up crossing and finishing circuits with servers wide and attackers making timed runs. Play small-sided games on wide fields that encourage wing play. Use conditions like 'goals only count from crosses' to reinforce the strategy. Teach wingers to recognize when defenders show them inside versus outside. Video analysis of professional wing play helps players understand movement patterns and timing.",
+      "formations": ["4-3-3", "4-2-4", "3-2-3"],
+      "applicable_age_groups": ["U12", "U13"]
+    },
+    {
+      "id": "u12-pressing-as-unit",
+      "name": "Pressing as a Unit",
+      "age_group": "U12",
+      "category": "defense",
+      "difficulty": "intermediate",
+      "description": "Pressing as a unit teaches coordinated defensive pressure to win the ball back quickly in dangerous areas. Players learn to recognize pressing triggers - such as a poor touch, backward pass, or ball played to a weak player - and respond collectively. The strategy requires synchronized movement where the first defender pressures the ball while teammates cut off passing lanes and provide cover. Players understand the importance of pressing angles, body positioning, and timing. The team learns to press in specific zones rather than chasing everywhere, conserving energy while maximizing effectiveness. This strategy develops defensive communication, tactical discipline, and the ability to transition quickly from defense to attack after winning possession in advanced positions.",
+      "key_points": [
+        "Recognize pressing triggers - poor touch, back pass, or ball to weak player signals time to press",
+        "First defender pressures - closest player sprints to close down the ball carrier immediately",
+        "Cut passing lanes - supporting players position to block obvious passing options",
+        "Press at an angle - force the opponent toward the touchline or into crowded areas",
+        "Stay connected - maintain 10-15 yards between pressing players to avoid being split",
+        "Know when not to press - recognize when opponents have beaten the press and drop off together",
+        "Transition quickly - when winning the ball, immediately look to attack the disorganized defense"
+      ],
+      "implementation_guide": "Start with shadow pressing where players practice movements without opposition. Progress to pressing drills with passive opponents who follow scripts. Use small-sided games with pressing zones where teams must win the ball in specific areas. Implement conditions like 'if you win the ball in the attacking third, the goal counts double.' Practice recognizing triggers through video analysis and freeze-frame discussions. Emphasize collective movement and communication throughout all exercises.",
+      "formations": ["4-3-3", "4-3-1", "3-2-3"],
+      "applicable_age_groups": ["U12", "U13"]
+    },
+    {
+      "id": "u14-build-from-back",
+      "name": "Build from the Back",
+      "age_group": "U14+",
+      "category": "tactical",
+      "difficulty": "advanced",
+      "description": "Building from the back is a possession-based strategy that emphasizes playing out from the goalkeeper and defenders rather than launching long balls. This approach requires technical composure under pressure, intelligent positioning, and patient ball circulation. Defenders and midfielders create passing triangles and diamonds to progress the ball through thirds. The goalkeeper acts as an additional outfield player, comfortable receiving back passes and distributing accurately. Players learn to recognize when to play forward, when to switch the point of attack, and when to recycle possession. This strategy attracts opponent pressure, creating space in advanced areas to exploit. It develops decision-making under pressure, technical proficiency, and tactical understanding of how to control games through possession and territorial advantage.",
+      "key_points": [
+        "Goalkeeper involvement - keeper must be comfortable with feet and provide a passing option",
+        "Create numerical advantages - use center backs split wide and defensive midfielder dropping to create overloads",
+        "Play through pressure - resist the urge to go long, trust technical ability to beat the press",
+        "Switch the play - when one side is congested, quickly transfer the ball to the weak side",
+        "Midfield positioning - central midfielders must check to the ball and turn to face forward",
+        "Recognize when to go long - if the press is beaten, exploit space behind with penetrating passes",
+        "Patience and composure - accept that building up takes time and requires multiple passes"
+      ],
+      "implementation_guide": "Practice playing out from the back in controlled 7v7 or 8v8 scenarios with pressing opponents. Start with passive pressure and gradually increase intensity. Use positional rondos that replicate game situations. Implement rules like 'must complete 5 passes in defensive third before attacking.' Train goalkeepers specifically on distribution and receiving under pressure. Video analysis of elite teams demonstrates proper spacing and movement patterns. Emphasize that turnovers are learning opportunities, not failures.",
+      "formations": ["4-3-3", "4-2-4", "3-2-3"],
+      "applicable_age_groups": ["U14", "U15", "U16", "U17", "U18"]
+    },
+    {
+      "id": "u14-counter-attack-speed",
+      "name": "Counter-Attack Speed",
+      "age_group": "U14+",
+      "category": "offense",
+      "difficulty": "advanced",
+      "description": "Counter-attacking exploits the transition moment when opponents are disorganized after losing possession. This strategy emphasizes explosive speed, direct passing, and clinical finishing. Players learn to recognize counter-attack opportunities - typically when winning the ball in defensive or middle thirds with space ahead. The key is rapid vertical progression through quick passing or dribbling at pace, targeting the space behind the opponent's defensive line. Supporting players make intelligent forward runs, stretching the defense and creating passing options. The strategy requires discipline to defend compactly, patience to wait for the right moment, and ruthless efficiency in transition. Counter-attacking teams can be defensively solid while remaining dangerous, making this an effective approach against possession-dominant opponents.",
+      "key_points": [
+        "Win the ball cleanly - first priority is securing possession in the transition moment",
+        "Immediate forward focus - player winning the ball must look forward first, not sideways or back",
+        "Speed of execution - move the ball forward quickly with 1-2 touch passing or direct dribbling",
+        "Run in behind - forwards and wingers sprint into space behind the defensive line immediately",
+        "Support the attack - midfielders must join the counter quickly to provide numbers forward",
+        "Quality final ball - the final pass or cross must be accurate to capitalize on the opportunity",
+        "Finish clinically - limited chances mean high conversion rate is essential"
+      ],
+      "implementation_guide": "Set up transition games where teams must score within 10 seconds of winning possession. Practice specific counter-attack patterns with mannequins or passive defenders. Use full-field exercises that start with defensive scenarios and reward quick transitions. Condition games to emphasize speed - 'goals in first 15 seconds count double.' Train forwards on timing runs and finishing at speed. Video analysis of elite counter-attacking teams shows decision-making and movement patterns. Fitness work should include repeated sprint ability.",
+      "formations": ["4-4-2", "4-3-3", "4-2-4"],
+      "applicable_age_groups": ["U14", "U15", "U16", "U17", "U18"]
+    },
+    {
+      "id": "u14-high-press-system",
+      "name": "High Press System",
+      "age_group": "U14+",
+      "category": "defense",
+      "difficulty": "advanced",
+      "description": "The high press system is an aggressive defensive strategy that applies intense pressure in the opponent's half to win the ball in dangerous attacking positions. This approach requires exceptional fitness, tactical discipline, and coordinated team movement. Players learn to press as connected units, with the first defender applying pressure while teammates cut passing lanes and provide cover. The system includes pressing triggers, rest moments, and counter-pressing after losing possession. Defenders push high up the field, compressing space and forcing opponents into mistakes. The strategy demands a high defensive line, goalkeeper sweeping behind, and immediate transition to attack when winning the ball. This high-risk, high-reward approach can dominate games but requires physical and mental intensity throughout.",
+      "key_points": [
+        "Aggressive starting position - entire team pushes high, often inside opponent's half",
+        "Coordinated pressing triggers - team responds collectively to specific cues (back pass, heavy touch)",
+        "Cut off passing lanes - supporting players position to eliminate easy passing options",
+        "High defensive line - back line pushes up to compress space, requiring pace and awareness",
+        "Goalkeeper as sweeper - keeper must be comfortable coming off line to clear through balls",
+        "Counter-press immediately - if possession is lost, press instantly before opponents can organize",
+        "Manage energy - recognize when to press intensely and when to drop off and recover"
+      ],
+      "implementation_guide": "Build fitness base through high-intensity interval training and repeated sprint work. Practice pressing patterns in phase-of-play exercises with specific triggers. Use small-sided games on reduced fields to simulate high-press scenarios. Implement offside line training with defenders pushing up together. Train goalkeepers on sweeping and distribution. Video analysis of elite pressing teams demonstrates coordination and timing. Gradually increase pressing duration in training to build physical and mental capacity. Monitor player fatigue and rotate appropriately.",
+      "formations": ["4-3-3", "4-2-4", "3-2-3"],
+      "applicable_age_groups": ["U14", "U15", "U16", "U17", "U18"]
+    },
+    {
+      "id": "u14-possession-control",
+      "name": "Possession Control",
+      "age_group": "U14+",
+      "category": "tactical",
+      "difficulty": "advanced",
+      "description": "Possession control is a sophisticated strategy focused on dominating the ball to control tempo, territory, and ultimately the game outcome. This approach emphasizes technical excellence, intelligent positioning, and patient build-up play. Players constantly create passing angles through movement, maintaining triangular and diamond shapes across the field. The strategy involves circulating the ball to draw opponents out of position, then exploiting created space with penetrating passes. Possession control requires composure under pressure, excellent first touch, and vision to recognize when to speed up or slow down play. Teams using this strategy typically enjoy territorial advantage, limit opponent chances, and create scoring opportunities through sustained pressure and defensive fatigue. It represents the highest level of tactical sophistication in youth soccer.",
+      "key_points": [
+        "Constant movement off the ball - players must relocate continuously to create passing options",
+        "Maintain shape and spacing - proper positioning ensures passing angles and prevents congestion",
+        "Play at appropriate tempo - recognize when to circulate patiently versus when to accelerate",
+        "Technical excellence required - first touch, passing accuracy, and receiving skills must be high level",
+        "Positional rotation - players interchange positions while maintaining team structure",
+        "Penetrate when possible - possession is purposeful, always seeking to progress toward goal",
+        "Defensive transition - when losing the ball, immediate counter-press to regain possession quickly"
+      ],
+      "implementation_guide": "Develop technical foundation through extensive rondo work at various numerical advantages. Practice positional play in structured exercises that replicate game situations. Use possession-based small-sided games with conditions like 'must complete 10 passes before shooting.' Implement full-field training that emphasizes maintaining possession under pressure. Video analysis of elite possession teams demonstrates movement patterns and decision-making. Track possession statistics in training games to measure progress. Emphasize that possession must be purposeful and lead to goal-scoring opportunities, not just keeping the ball.",
+      "formations": ["4-3-3", "3-2-3", "4-2-4"],
+      "applicable_age_groups": ["U14", "U15", "U16", "U17", "U18"]
+    }
+  ],
+  "metadata": {
+    "total_strategies": 10,
+    "age_group_distribution": {
+      "U6-U8": 2,
+      "U10": 2,
+      "U12": 2,
+      "U14+": 4
+    },
+    "category_distribution": {
+      "offense": 3,
+      "defense": 4,
+      "tactical": 3
+    },
+    "difficulty_distribution": {
+      "beginner": 2,
+      "intermediate": 4,
+      "advanced": 4
+    },
+    "formation_coverage": [
+      "1-2-1",
+      "1-1-2",
+      "2-2-2",
+      "2-3-2",
+      "3-2-2",
+      "3-2-3",
+      "4-3-1",
+      "4-4-2",
+      "4-3-3",
+      "4-2-4"
+    ]
+  }
+}

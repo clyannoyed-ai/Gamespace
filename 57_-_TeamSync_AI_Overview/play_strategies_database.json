@@ -1,0 +1,340 @@
+{
+  "U6-U8": {
+    "ageGroup": "U6-U8",
+    "ageRange": "6-8 years",
+    "description": "Focus on fundamental skills, fun activities, and basic spatial awareness",
+    "plays": [
+      {
+        "id": "u6-8-dribble-attack",
+        "name": "Individual Dribble Attack",
+        "type": "attacking",
+        "description": "Players focus on individual ball control and dribbling towards goal",
+        "keyPoints": [
+          "Encourage every player to dribble with the ball",
+          "Eyes on the ball while moving forward",
+          "Use inside and outside of foot",
+          "Simple 'get the ball and go' mentality"
+        ],
+        "formation": "Loose 2-2-2 or cluster",
+        "tactics": "No structured positions - encourage aggressive dribbling and shooting whenever possible",
+        "visual": "Players spread across field with freedom to move"
+      },
+      {
+        "id": "u6-8-spread-out",
+        "name": "Spread Out and Space",
+        "type": "positioning",
+        "description": "Teaching basic spacing to prevent bunching",
+        "keyPoints": [
+          "Stay in your zone concept",
+          "Find empty space on the field",
+          "Don't all chase the ball (swarm)",
+          "Use visual cues like cones for zones"
+        ],
+        "formation": "Simple zones",
+        "tactics": "Use 'stay in your home' analogy - each player has a zone to patrol",
+        "visual": "Field divided into 6 zones with players assigned"
+      },
+      {
+        "id": "u6-8-quick-shoot",
+        "name": "Quick Shoot on Goal",
+        "type": "shooting",
+        "description": "Encourage immediate shooting when near goal",
+        "keyPoints": [
+          "Shoot as soon as you're near the goal",
+          "No passing required - just shoot",
+          "Celebrate every attempt",
+          "Power doesn't matter - accuracy comes later"
+        ],
+        "formation": "Free play",
+        "tactics": "Reward any shot on goal, build confidence through attempts",
+        "visual": "Players encouraged to shoot from anywhere in attacking third"
+      },
+      {
+        "id": "u6-8-goal-kick-spread",
+        "name": "Goal Kick Spread",
+        "type": "restart",
+        "description": "Simple positioning for goal kicks",
+        "keyPoints": [
+          "Players spread to sides of field",
+          "Kick to open space or strong dribbler",
+          "No complex patterns needed",
+          "Short kicks are fine"
+        ],
+        "formation": "Wide spread",
+        "tactics": "Get ball to player with space, avoid kicking to crowded areas",
+        "visual": "Players positioned on wings and sides"
+      },
+      {
+        "id": "u6-8-defend-goal",
+        "name": "Protect the Goal",
+        "type": "defending",
+        "description": "Basic defending concept - stay between ball and goal",
+        "keyPoints": [
+          "Face the ball always",
+          "Stay between ball and your goal",
+          "Try to take the ball away",
+          "Don't give up - keep trying"
+        ],
+        "formation": "Basic defensive awareness",
+        "tactics": "Simple 'protect your goal' mindset without complex marking",
+        "visual": "Defenders facing ball, positioned between ball and goal"
+      }
+    ]
+  },
+  "U10": {
+    "ageGroup": "U10",
+    "ageRange": "9-10 years",
+    "description": "Introducing basic tactics, positions, and team coordination",
+    "plays": [
+      {
+        "id": "u10-wing-attack",
+        "name": "Wing Attack with Cross",
+        "type": "attacking",
+        "description": "Use wide players to create crossing opportunities",
+        "keyPoints": [
+          "Wide players stay on touchline",
+          "Dribble down wing with speed",
+          "Look for runners in the box",
+          "Cross low and hard or lofted to back post"
+        ],
+        "formation": "2-3-2 or 3-2-2",
+        "tactics": "Stretch defense horizontally, create 2v1 situations on wings, forwards time runs into box",
+        "visual": "Winger runs down sideline, forwards make diagonal runs into box"
+      },
+      {
+        "id": "u10-triangle-passing",
+        "name": "Triangle Passing Play",
+        "type": "possession",
+        "description": "Create triangles for passing support",
+        "keyPoints": [
+          "Always provide two passing options",
+          "Form triangles with nearby teammates",
+          "Pass and move to new position",
+          "Support player with the ball"
+        ],
+        "formation": "3-2-2 with triangles",
+        "tactics": "Maintain possession through short passes, move ball from defense to attack through connected triangles",
+        "visual": "Three players forming triangle shape for passing options"
+      },
+      {
+        "id": "u10-counter-attack",
+        "name": "Quick Counter Attack",
+        "type": "transition",
+        "description": "Win ball and attack quickly with fast players",
+        "keyPoints": [
+          "Win the ball in defensive half",
+          "One quick pass forward to fast player",
+          "Sprint forward with numbers",
+          "Shoot before defense organizes"
+        ],
+        "formation": "2-3-2",
+        "tactics": "Defend deep, win ball, immediate forward pass, exploit speed advantage",
+        "visual": "Defender wins ball, passes to fast forward who runs at goal"
+      },
+      {
+        "id": "u10-corner-near-post",
+        "name": "Corner Kick - Near Post Run",
+        "type": "set-piece",
+        "description": "Organized corner kick targeting near post",
+        "keyPoints": [
+          "Two runners - one near post, one far post",
+          "Near post runner times run to arrive as ball comes",
+          "Flick on to far post or shoot directly",
+          "Others crash goal for rebounds"
+        ],
+        "formation": "Strategic positioning",
+        "tactics": "In-swinging corner to near post, runner flicks toward goal or far post, teammates follow up",
+        "visual": "Corner taker delivers to near post, runner makes angled run"
+      },
+      {
+        "id": "u10-pressure-cover",
+        "name": "Pressure and Cover Defense",
+        "type": "defending",
+        "description": "First defender pressures, second defender covers",
+        "keyPoints": [
+          "Closest player pressures ball carrier immediately",
+          "Next closest player provides cover behind",
+          "Force play to one side",
+          "Communicate 'I got ball' and 'I got cover'"
+        ],
+        "formation": "Defensive positioning",
+        "tactics": "First defender closes down space, second defender prevents through balls, compact defensive shape",
+        "visual": "First defender presses ball, second defender positioned at angle behind"
+      }
+    ]
+  },
+  "U12": {
+    "ageGroup": "U12",
+    "ageRange": "11-12 years",
+    "description": "More complex tactics with defined roles and coordinated team movements",
+    "plays": [
+      {
+        "id": "u12-build-up-play",
+        "name": "Build Up from Back",
+        "type": "attacking",
+        "description": "Organized progression from defense to attack",
+        "keyPoints": [
+          "Start with goalkeeper or defenders",
+          "Short passes through thirds of field",
+          "Midfielders drop to receive",
+          "Switch play to find space",
+          "Patient buildup - no rush"
+        ],
+        "formation": "4-3-3 or 3-5-2",
+        "tactics": "Progress through defensive, middle, and attacking thirds with controlled possession, switch sides when congested",
+        "visual": "Ball moves from back through midfield with supporting runs"
+      },
+      {
+        "id": "u12-overlapping-run",
+        "name": "Overlapping Fullback Attack",
+        "type": "attacking",
+        "description": "Fullback overlaps winger to create overload",
+        "keyPoints": [
+          "Winger receives ball on wing",
+          "Fullback sprints from behind to overlap",
+          "Winger can pass to overlapping runner or cut inside",
+          "Create 2v1 against opponent fullback",
+          "Midfield covers defensive space"
+        ],
+        "formation": "4-3-3",
+        "tactics": "Use overlapping runs to create numerical advantage on wings, winger decides to pass or dribble based on defender position",
+        "visual": "Fullback runs outside and ahead of winger creating passing option"
+      },
+      {
+        "id": "u12-central-overload",
+        "name": "Central Midfield Overload",
+        "type": "possession",
+        "description": "Dominate center of field with numerical advantage",
+        "keyPoints": [
+          "Pack midfield with 3-4 players",
+          "Create triangles for passing",
+          "Quick one-touch passes",
+          "Draw opponents to center then switch wide",
+          "Maintain possession in middle third"
+        ],
+        "formation": "4-4-2 diamond or 4-3-3",
+        "tactics": "Control game through midfield dominance, tire opponents with possession, create space on wings by drawing players central",
+        "visual": "Multiple midfielders in close proximity passing quickly"
+      },
+      {
+        "id": "u12-free-kick-wall-pass",
+        "name": "Free Kick Wall Pass",
+        "type": "set-piece",
+        "description": "Quick free kick using wall pass to bypass defense",
+        "keyPoints": [
+          "Two players stand over ball",
+          "First player taps to second (wall)",
+          "Second player one-touch returns",
+          "First player shoots or crosses",
+          "Execute quickly before defense organizes"
+        ],
+        "formation": "Set piece positioning",
+        "tactics": "Catch defense off guard with quick restart, use wall pass to bypass defensive wall, create shooting angle",
+        "visual": "Two attackers exchange quick passes to break defensive setup"
+      },
+      {
+        "id": "u12-high-press",
+        "name": "High Defensive Press",
+        "type": "defending",
+        "description": "Press opponents high up the field to win ball in attacking areas",
+        "keyPoints": [
+          "Forwards press opponent defenders immediately",
+          "Midfielders step up to cut passing lanes",
+          "Force play to sidelines",
+          "Compact team shape - small distances between lines",
+          "Win ball in opponent half"
+        ],
+        "formation": "4-3-3 compact",
+        "tactics": "Aggressive pressing to force turnovers, transition quickly to attack after winning ball, requires high fitness and discipline",
+        "visual": "Entire team pushes high, pressuring opponent in their defensive third"
+      }
+    ]
+  },
+  "U14+": {
+    "ageGroup": "U14+",
+    "ageRange": "13+ years",
+    "description": "Advanced tactics requiring tactical intelligence and sophisticated execution",
+    "plays": [
+      {
+        "id": "u14-false-9",
+        "name": "False 9 Movement",
+        "type": "attacking",
+        "description": "Striker drops deep to create space for midfielders to run into",
+        "keyPoints": [
+          "Striker drops into midfield space",
+          "Pulls center backs out of position",
+          "Midfielders make runs into vacated space",
+          "Creates confusion in opponent defense",
+          "Requires intelligent movement and timing"
+        ],
+        "formation": "4-3-3 with false 9",
+        "tactics": "Disrupt opponent defensive organization, create space behind defense, midfielders must recognize and exploit space",
+        "visual": "Striker drops deep, center backs follow, midfielders run into space behind"
+      },
+      {
+        "id": "u14-inverted-wingers",
+        "name": "Inverted Wingers Cutting Inside",
+        "type": "attacking",
+        "description": "Wingers on opposite foot side cut inside for shooting",
+        "keyPoints": [
+          "Left footed player on right wing (and vice versa)",
+          "Cut inside onto strong foot",
+          "Shoot from edge of box or pass to striker",
+          "Fullbacks provide width by overlapping",
+          "Creates shooting angles"
+        ],
+        "formation": "4-3-3 with inverted wingers",
+        "tactics": "Use inverted wingers to create shooting opportunities from wide positions, overload central areas, unpredictable movement",
+        "visual": "Winger receives ball wide, cuts inside onto strong foot toward goal"
+      },
+      {
+        "id": "u14-tiki-taka",
+        "name": "Tiki-Taka Possession",
+        "type": "possession",
+        "description": "Rapid short passing to maintain possession and tire opponents",
+        "keyPoints": [
+          "Very short passes - 5-10 yards",
+          "Constant movement off ball",
+          "Triangles and diamonds for support",
+          "One or two-touch passes only",
+          "Exhaust opponents through possession"
+        ],
+        "formation": "4-3-3 or 4-4-2 diamond",
+        "tactics": "Dominate possession through quick passing, force opponents to chase, create openings through patient buildup",
+        "visual": "Players in tight spaces exchanging rapid short passes"
+      },
+      {
+        "id": "u14-corner-routine",
+        "name": "Advanced Corner Routine",
+        "type": "set-piece",
+        "description": "Coordinated corner kick with multiple decoy runs",
+        "keyPoints": [
+          "Short corner option to draw defenders",
+          "Three runners - near post, middle, far post",
+          "Blocker creates space for key runner",
+          "Variable delivery - in-swing, out-swing, or low driven",
+          "Practice specific runs and timing"
+        ],
+        "formation": "Organized set piece",
+        "tactics": "Create confusion with movement, use blocking runs to free up key attacker, practice multiple variations",
+        "visual": "Multiple coordinated runs with one player blocking defenders"
+      },
+      {
+        "id": "u14-offside-trap",
+        "name": "Defensive Offside Trap",
+        "type": "defending",
+        "description": "Coordinated defensive line pushes up to catch opponents offside",
+        "keyPoints": [
+          "Entire defensive line steps up together",
+          "Perfect timing and communication essential",
+          "Trigger: opponent looks to make through pass",
+          "Goalkeeper commands the line",
+          "High risk, high reward"
+        ],
+        "formation": "Flat back 4 or 3",
+        "tactics": "Catch opponent strikers offside during buildup, requires excellent communication and timing, compress field",
+        "visual": "Defensive line steps up simultaneously as pass is played"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "TeamSyncAI-iOS",
+  "version": "1.0.0",
+  "description": "Native iOS app for TeamSync AI - Soccer team management platform",
+  "main": "TeamSyncAI/TeamSyncAIApp.swift",
+  "minimum_deployment_target": "15.0",
+  "swift_version": "5.9",
+  "targets": {
+    "TeamSyncAI": {
+      "type": "application",
+      "platform": "iOS",
+      "deployment_target": "15.0",
+      "source_root": "TeamSyncAI",
+      "frameworks": [
+        "SwiftUI",
+        "Combine",
+        "Foundation",
+        "UserNotifications",
+        "AVFoundation",
+        "MapKit"
+      ],
+      "dependencies": []
+    }
+  },
+  "configurations": {
+    "Debug": {
+      "settings": {
+        "API_BASE_URL": "https://your-dev-backend.com/api/v1",
+        "ENABLE_LOGGING": true
+      }
+    },
+    "Release": {
+      "settings": {
+        "API_BASE_URL": "https://teamsyncai.abacusai.app/api/v1",
+        "ENABLE_LOGGING": false
+      }
+    }
+  }
+}
