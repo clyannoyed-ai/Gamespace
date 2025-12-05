@@ -1,0 +1,19 @@
+{
+  "sessionMetadata": {
+    "format": "2v1",
+    "goal": "PLAYER ACTIONS",
+    "playerActions": [
+      "Pass or dribble forward",
+      "Spread out",
+      "Create a 2v1 or 1v1",
+      "Change the attack"
+    ],
+    "keyQualities": [
+      "Read the game",
+      "Focus",
+      "Optimal technical abilities"
+    ],
+    "duration": 60
+  },
+  "drills": []
+}

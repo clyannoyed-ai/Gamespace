@@ -1,0 +1,573 @@
+[
+  {
+    "drillId": "u8-week-4-intentional-free-play",
+    "name": "Intentional Free Play",
+    "ageGroup": "U8",
+    "focus": "Build Up",
+    "category": "PLAY PHASE",
+    "subcategory": "PLAY PHASE",
+    "objective": "To keep the opposition from moving the ball forward and try to regain the",
+    "duration": 20,
+    "organization": "Set up two or more 20Wx30L fields with a goal at each end. Play 1v1,",
+    "playerCount": 2,
+    "fieldSize": "20x30",
+    "playerActions": [
+      "Pressure",
+      "cover and balance",
+      "Get and make it compact",
+      "Steal the ball"
+    ],
+    "coachingPoints": [
+      "The closest defender press the player with the ball",
+      "To get and stay\ncompacted to prevent them from moving the ball forward 3"
+    ],
+    "keyWords": [
+      "Hassle the opponent",
+      "Work together",
+      "Tackle or poke."
+    ],
+    "equipment": {
+      "zones": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 40,
+          "width": 70,
+          "height": 60,
+          "name": "Playing Area",
+          "type": "playing_area"
+        }
+      ],
+      "goals": [
+        {
+          "id": 1,
+          "x": 5,
+          "y": 40,
+          "width": 6,
+          "height": 3,
+          "type": "small"
+        },
+        {
+          "id": 2,
+          "x": 95,
+          "y": 40,
+          "width": 6,
+          "height": 3,
+          "type": "small"
+        }
+      ],
+      "cones": []
+    },
+    "formationData": {
+      "version": "2.0",
+      "coordinateSystem": "120x80",
+      "centerPoint": {
+        "x": 60,
+        "y": 40
+      },
+      "players": [
+        {
+          "id": 1,
+          "x": 30,
+          "y": 30,
+          "team": "attacking",
+          "role": "Player",
+          "number": 1
+        },
+        {
+          "id": 2,
+          "x": 30,
+          "y": 50,
+          "team": "attacking",
+          "role": "Player",
+          "number": 2
+        }
+      ],
+      "equipment": {
+        "zones": [
+          {
+            "id": 1,
+            "x": 50,
+            "y": 40,
+            "width": 70,
+            "height": 60,
+            "name": "Playing Area",
+            "type": "playing_area"
+          }
+        ],
+        "goals": [
+          {
+            "id": 1,
+            "x": 5,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          },
+          {
+            "id": 2,
+            "x": 95,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          }
+        ],
+        "cones": []
+      },
+      "zones": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 40,
+          "width": 70,
+          "height": 60,
+          "name": "Playing Area",
+          "type": "playing_area"
+        }
+      ],
+      "animations": [],
+      "coaching": {
+        "keyWords": [
+          "Hassle the opponent",
+          "Work together",
+          "Tackle or poke."
+        ],
+        "guidedQuestions": [
+          "1. Who should pressure the ball?",
+          "2. Why do we need to work\ntogether?",
+          "3. When should you steal the ball?"
+        ],
+        "answers": [
+          "The closest defender press the player with the ball",
+          "To get and stay\ncompacted to prevent them from moving the ball forward 3"
+        ]
+      },
+      "metadata": {
+        "fieldCenter": {
+          "x": 60,
+          "y": 40
+        },
+        "coordinatesNormalized": true,
+        "source": "MA Youth Soccer PDF Parse"
+      }
+    },
+    "vlmData": {
+      "players": [
+        {
+          "id": 1,
+          "x": 30,
+          "y": 30,
+          "team": "attacking",
+          "role": "Player",
+          "number": 1
+        },
+        {
+          "id": 2,
+          "x": 30,
+          "y": 50,
+          "team": "attacking",
+          "role": "Player",
+          "number": 2
+        }
+      ],
+      "equipment": {
+        "zones": [
+          {
+            "id": 1,
+            "x": 50,
+            "y": 40,
+            "width": 70,
+            "height": 60,
+            "name": "Playing Area",
+            "type": "playing_area"
+          }
+        ],
+        "goals": [
+          {
+            "id": 1,
+            "x": 5,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          },
+          {
+            "id": 2,
+            "x": 95,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          }
+        ],
+        "cones": []
+      },
+      "zones": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 40,
+          "width": 70,
+          "height": 60,
+          "name": "Playing Area",
+          "type": "playing_area"
+        }
+      ],
+      "animations": [],
+      "coaching": {
+        "keyWords": [
+          "Hassle the opponent",
+          "Work together",
+          "Tackle or poke."
+        ],
+        "guidedQuestions": [
+          "1. Who should pressure the ball?",
+          "2. Why do we need to work\ntogether?",
+          "3. When should you steal the ball?"
+        ],
+        "answers": [
+          "The closest defender press the player with the ball",
+          "To get and stay\ncompacted to prevent them from moving the ball forward 3"
+        ]
+      },
+      "metadata": {
+        "fieldCenter": {
+          "x": 60,
+          "y": 40
+        },
+        "coordinatesNormalized": true,
+        "source": "MA Youth Soccer PDF Parse"
+      }
+    },
+    "source": "MA Youth Soccer Curriculum",
+    "sourceUrl": "https://mayouthsoccer.org/coaches/session-plans/",
+    "author": "MA Youth Soccer",
+    "week": 4,
+    "guidedQuestions": [
+      "1. Who should pressure the ball?",
+      "2. Why do we need to work\ntogether?",
+      "3. When should you steal the ball?"
+    ],
+    "intervals": 3,
+    "activityTime": "5 minutes",
+    "restTime": "1 min"
+  },
+  {
+    "drillId": "u8-week-4-the-game",
+    "name": "The Game",
+    "ageGroup": "U8",
+    "focus": "Build Up",
+    "category": "PLAY PHASE",
+    "subcategory": "PLAY PHASE",
+    "objective": "To keep the opposition from moving the ball forward and try to regain the",
+    "duration": 20,
+    "organization": "In a 50Wx80L field play 8v8. The Blue team will play in 1-2-2-3 formation",
+    "playerCount": 16,
+    "fieldSize": "50x80",
+    "playerActions": [
+      "Pressure",
+      "cover and balance",
+      "Get and make it compact",
+      "Steal the ball"
+    ],
+    "coachingPoints": [
+      "The closest defender presses the player with the ball",
+      "To get and stay\ncompacted to prevent them from moving the ball forward"
+    ],
+    "keyWords": [
+      "Attack the ball",
+      "Work together",
+      "Tackle or poke."
+    ],
+    "equipment": {
+      "zones": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 40,
+          "width": 70,
+          "height": 60,
+          "name": "Playing Area",
+          "type": "playing_area"
+        }
+      ],
+      "goals": [
+        {
+          "id": 1,
+          "x": 5,
+          "y": 40,
+          "width": 6,
+          "height": 3,
+          "type": "small"
+        },
+        {
+          "id": 2,
+          "x": 95,
+          "y": 40,
+          "width": 6,
+          "height": 3,
+          "type": "small"
+        }
+      ],
+      "cones": []
+    },
+    "formationData": {
+      "version": "2.0",
+      "coordinateSystem": "120x80",
+      "centerPoint": {
+        "x": 60,
+        "y": 40
+      },
+      "players": [
+        {
+          "id": 1,
+          "x": 30,
+          "y": 30,
+          "team": "attacking",
+          "role": "Player",
+          "number": 1
+        },
+        {
+          "id": 2,
+          "x": 30,
+          "y": 50,
+          "team": "attacking",
+          "role": "Player",
+          "number": 2
+        },
+        {
+          "id": 3,
+          "x": 50,
+          "y": 30,
+          "team": "attacking",
+          "role": "Player",
+          "number": 3
+        },
+        {
+          "id": 4,
+          "x": 50,
+          "y": 50,
+          "team": "attacking",
+          "role": "Player",
+          "number": 4
+        },
+        {
+          "id": 5,
+          "x": 70,
+          "y": 30,
+          "team": "defending",
+          "role": "Player",
+          "number": 5
+        },
+        {
+          "id": 6,
+          "x": 70,
+          "y": 50,
+          "team": "defending",
+          "role": "Player",
+          "number": 6
+        }
+      ],
+      "equipment": {
+        "zones": [
+          {
+            "id": 1,
+            "x": 50,
+            "y": 40,
+            "width": 70,
+            "height": 60,
+            "name": "Playing Area",
+            "type": "playing_area"
+          }
+        ],
+        "goals": [
+          {
+            "id": 1,
+            "x": 5,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          },
+          {
+            "id": 2,
+            "x": 95,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          }
+        ],
+        "cones": []
+      },
+      "zones": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 40,
+          "width": 70,
+          "height": 60,
+          "name": "Playing Area",
+          "type": "playing_area"
+        }
+      ],
+      "animations": [],
+      "coaching": {
+        "keyWords": [
+          "Attack the ball",
+          "Work together",
+          "Tackle or poke."
+        ],
+        "guidedQuestions": [
+          "1. Who should attack the player with the ball?",
+          "2. Why do we need to\nwork together?",
+          "3. When should you steal the ball?"
+        ],
+        "answers": [
+          "The closest defender presses the player with the ball",
+          "To get and stay\ncompacted to prevent them from moving the ball forward"
+        ]
+      },
+      "metadata": {
+        "fieldCenter": {
+          "x": 60,
+          "y": 40
+        },
+        "coordinatesNormalized": true,
+        "source": "MA Youth Soccer PDF Parse"
+      }
+    },
+    "vlmData": {
+      "players": [
+        {
+          "id": 1,
+          "x": 30,
+          "y": 30,
+          "team": "attacking",
+          "role": "Player",
+          "number": 1
+        },
+        {
+          "id": 2,
+          "x": 30,
+          "y": 50,
+          "team": "attacking",
+          "role": "Player",
+          "number": 2
+        },
+        {
+          "id": 3,
+          "x": 50,
+          "y": 30,
+          "team": "attacking",
+          "role": "Player",
+          "number": 3
+        },
+        {
+          "id": 4,
+          "x": 50,
+          "y": 50,
+          "team": "attacking",
+          "role": "Player",
+          "number": 4
+        },
+        {
+          "id": 5,
+          "x": 70,
+          "y": 30,
+          "team": "defending",
+          "role": "Player",
+          "number": 5
+        },
+        {
+          "id": 6,
+          "x": 70,
+          "y": 50,
+          "team": "defending",
+          "role": "Player",
+          "number": 6
+        }
+      ],
+      "equipment": {
+        "zones": [
+          {
+            "id": 1,
+            "x": 50,
+            "y": 40,
+            "width": 70,
+            "height": 60,
+            "name": "Playing Area",
+            "type": "playing_area"
+          }
+        ],
+        "goals": [
+          {
+            "id": 1,
+            "x": 5,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          },
+          {
+            "id": 2,
+            "x": 95,
+            "y": 40,
+            "width": 6,
+            "height": 3,
+            "type": "small"
+          }
+        ],
+        "cones": []
+      },
+      "zones": [
+        {
+          "id": 1,
+          "x": 50,
+          "y": 40,
+          "width": 70,
+          "height": 60,
+          "name": "Playing Area",
+          "type": "playing_area"
+        }
+      ],
+      "animations": [],
+      "coaching": {
+        "keyWords": [
+          "Attack the ball",
+          "Work together",
+          "Tackle or poke."
+        ],
+        "guidedQuestions": [
+          "1. Who should attack the player with the ball?",
+          "2. Why do we need to\nwork together?",
+          "3. When should you steal the ball?"
+        ],
+        "answers": [
+          "The closest defender presses the player with the ball",
+          "To get and stay\ncompacted to prevent them from moving the ball forward"
+        ]
+      },
+      "metadata": {
+        "fieldCenter": {
+          "x": 60,
+          "y": 40
+        },
+        "coordinatesNormalized": true,
+        "source": "MA Youth Soccer PDF Parse"
+      }
+    },
+    "source": "MA Youth Soccer Curriculum",
+    "sourceUrl": "https://mayouthsoccer.org/coaches/session-plans/",
+    "author": "MA Youth Soccer",
+    "week": 4,
+    "guidedQuestions": [
+      "1. Who should attack the player with the ball?",
+      "2. Why do we need to\nwork together?",
+      "3. When should you steal the ball?"
+    ],
+    "activityTime": "8 minutes",
+    "restTime": "2 min"
+  }
+]

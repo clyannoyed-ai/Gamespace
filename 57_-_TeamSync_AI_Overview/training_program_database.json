@@ -1,0 +1,811 @@
+{
+  "ageGroups": {
+    "U6": {
+      "format": "5v5",
+      "fieldSize": "quarter",
+      "focusAreas": [
+        "Basic positioning",
+        "Fun and development",
+        "Building confidence",
+        "First touch",
+        "Dribbling basics"
+      ],
+      "themes": [
+        "Introduction to positions",
+        "Basic ball control",
+        "Spreading out on field",
+        "Having fun with the ball",
+        "Simple passing"
+      ],
+      "drills": {
+        "gateDribbling": {
+          "name": "Gate Dribbling",
+          "objective": "Dribble through gates with control",
+          "duration": 10,
+          "organization": "20x15 yard area with 6-8 small gates (2 yards wide)",
+          "playerActions": [
+            "Dribble with both feet",
+            "Keep head up",
+            "Change direction"
+          ],
+          "keyWords": [
+            "Touch, touch, look",
+            "Use both feet",
+            "Find open gates"
+          ],
+          "coachingPoints": [
+            "Gentle touches on the ball",
+            "Look up between touches",
+            "Celebrate success"
+          ]
+        },
+        "colorChase": {
+          "name": "Color Chase",
+          "objective": "Develop awareness and speed with ball",
+          "duration": 12,
+          "organization": "20x20 yard area, players with colored pinnies",
+          "playerActions": [
+            "Dribble with control",
+            "Listen for color calls",
+            "Chase teammates"
+          ],
+          "keyWords": [
+            "Go get them",
+            "Safe dribbling",
+            "Look for space"
+          ],
+          "coachingPoints": [
+            "Keep ball close",
+            "Head up to find teammates",
+            "Have fun chasing"
+          ]
+        },
+        "miniGoalGame": {
+          "name": "3v3 Mini Goal Game",
+          "objective": "Score in any of the small goals",
+          "duration": 15,
+          "organization": "25x20 yards with 4 mini goals on perimeter",
+          "playerActions": [
+            "Dribble to score",
+            "Pass to teammate",
+            "Spread out"
+          ],
+          "keyWords": [
+            "Find the goal",
+            "Help your team",
+            "Keep trying"
+          ],
+          "coachingPoints": [
+            "Encourage risk-taking",
+            "Support teammates",
+            "Make it fun"
+          ]
+        }
+      }
+    },
+    "U8": {
+      "format": "7v7",
+      "fieldSize": "half",
+      "focusAreas": [
+        "Dribbling",
+        "Passing",
+        "Receiving",
+        "Spreading out",
+        "Building from back"
+      ],
+      "sessionStructure": {
+        "playPhase": {
+          "name": "Intentional Free Play",
+          "duration": 20,
+          "intervals": 3,
+          "activityTime": 4,
+          "restTime": 4
+        },
+        "coreActivity": {
+          "name": "Main Training Activity",
+          "duration": 20,
+          "intervals": 3,
+          "activityTime": 4,
+          "restTime": 4
+        },
+        "lessChallenging": {
+          "name": "Modified Game",
+          "duration": 18,
+          "intervals": 3,
+          "activityTime": 5,
+          "restTime": 3
+        },
+        "moreChallenging": {
+          "name": "Advanced Activity",
+          "duration": 18,
+          "intervals": 3,
+          "activityTime": 5,
+          "restTime": 3
+        },
+        "playPhaseGame": {
+          "name": "The Game",
+          "duration": 20,
+          "intervals": 3,
+          "activityTime": 5,
+          "restTime": 1
+        }
+      },
+      "themes": [
+        "Build out of defensive half",
+        "Dribble forward and spread out",
+        "Pass or dribble forward",
+        "Take initiative",
+        "Find open spaces"
+      ],
+      "drills": {
+        "intentionalFreePlay": {
+          "name": "4v4 Free Play - Build Out",
+          "objective": "Pass the ball into the attacking half or dribble beyond the ball into the attacking half",
+          "duration": 20,
+          "organization": "Half field, 4v4 with small goals, fields split into halves",
+          "playerActions": [
+            "Pass or dribble forward",
+            "Spread out",
+            "Support the ball"
+          ],
+          "keyWords": [
+            "Play forward",
+            "Find your teammate",
+            "Create space"
+          ],
+          "guidedQuestions": [
+            "If you see an opening in front of you, what should you do?",
+            "When should you pass instead of dribble?",
+            "Where should you move to help your teammate?"
+          ],
+          "coachingPoints": [
+            "Encourage forward play",
+            "Reward taking initiative",
+            "Support risk-taking decisions"
+          ]
+        },
+        "partnerBandits": {
+          "name": "Partner Bandits",
+          "objective": "Move the ball forward past the bandits and score",
+          "duration": 20,
+          "organization": "25yds x 20yds, 4v4 with small goal on each end, 2 bandits in middle zone",
+          "playerActions": [
+            "Pass or dribble forward",
+            "Combine with partner",
+            "Shoot when in range"
+          ],
+          "keyWords": [
+            "Look up",
+            "Find an opening",
+            "Play through it",
+            "One-two combination"
+          ],
+          "guidedQuestions": [
+            "How can you work with your partner to beat the bandits?",
+            "What do you see when you look up?",
+            "When is the best time to pass vs. dribble?"
+          ],
+          "coachingPoints": [
+            "Encourage combinations",
+            "Recognize good decision making",
+            "Celebrate creative solutions"
+          ]
+        },
+        "endZoneGame": {
+          "name": "4v4 End Zone Game",
+          "objective": "Dribble into opponent's end zone to score",
+          "duration": 18,
+          "organization": "30x20 yards with 5-yard end zones at each end",
+          "playerActions": [
+            "Dribble forward",
+            "Pass to create space",
+            "Enter end zone with control"
+          ],
+          "keyWords": [
+            "Get in the zone",
+            "Use space",
+            "Take them on"
+          ],
+          "guidedQuestions": [
+            "How can you create space to dribble forward?",
+            "When should you pass to help your team score?"
+          ],
+          "coachingPoints": [
+            "Encourage forward dribbling",
+            "Reward getting into end zones",
+            "Support decision making"
+          ]
+        },
+        "numberGame": {
+          "name": "Numbers Game 4v4+2",
+          "objective": "Use numerical advantage to maintain possession and advance",
+          "duration": 20,
+          "organization": "30x25 yards, 4v4 with 2 neutral players",
+          "playerActions": [
+            "Find neutral players",
+            "Maintain possession",
+            "Advance when possible"
+          ],
+          "keyWords": [
+            "Use your numbers",
+            "Keep it",
+            "Move forward"
+          ],
+          "coachingPoints": [
+            "Help players recognize advantage",
+            "Encourage forward passes",
+            "Support player decisions"
+          ]
+        }
+      }
+    },
+    "U10": {
+      "format": "7v7",
+      "fieldSize": "half",
+      "focusAreas": [
+        "Playing through lines",
+        "Compact defensive shape",
+        "Quick combinations",
+        "Creating openings",
+        "Possession in build-up"
+      ],
+      "themes": [
+        "Build up in own half",
+        "Move ball into opponent's half",
+        "Create numerical advantages",
+        "Support play",
+        "Combination play"
+      ],
+      "drills": {
+        "freePlay7v7": {
+          "name": "7v7 Free Play - Halves",
+          "objective": "Pass the ball forward through an opening or dribble to move the ball sideways or backwards",
+          "duration": 20,
+          "organization": "Half field split into halves, 7v7 with regular goal and small goal",
+          "playerActions": [
+            "Pass or dribble forward",
+            "Spread out",
+            "Support the attack"
+          ],
+          "keyWords": [
+            "Opening",
+            "Forward",
+            "Possess",
+            "Help"
+          ],
+          "guidedQuestions": [
+            "What do we do to create openings?",
+            "How do we move the ball forward through an opening?",
+            "When is a good time to possess the ball?"
+          ],
+          "coachingPoints": [
+            "Recognize good movement off ball",
+            "Encourage forward passes through gaps",
+            "Support possession when needed"
+          ]
+        },
+        "endingZone5v5": {
+          "name": "5v5 in Put 3 t Ending Zone",
+          "objective": "Pass the ball forward into the opponent's half",
+          "duration": 20,
+          "organization": "40x25 yards, 5v5 playing into 3 target players in ending zone",
+          "playerActions": [
+            "Pass or dribble forward",
+            "Spread out",
+            "Support the attack"
+          ],
+          "keyWords": [
+            "Look up",
+            "Find an opening",
+            "Play through it",
+            "Connect"
+          ],
+          "guidedQuestions": [
+            "Tell me how to create a new opening",
+            "What can we do if all of our front players are being marked?"
+          ],
+          "coachingPoints": [
+            "Encourage movement to create space",
+            "Reward successful forward passes",
+            "Support creative solutions"
+          ]
+        },
+        "buildUpPossession": {
+          "name": "Build Up Possession 6v4",
+          "objective": "Maintain possession while advancing from own half",
+          "duration": 20,
+          "organization": "40x30 yards split into thirds, 6v4 in defensive third",
+          "playerActions": [
+            "Receive and turn",
+            "Play forward when possible",
+            "Maintain possession under pressure"
+          ],
+          "keyWords": [
+            "Keep it",
+            "Turn and look",
+            "Play forward",
+            "Combine"
+          ],
+          "guidedQuestions": [
+            "How can we use our numerical advantage?",
+            "What should you do if you can't play forward?"
+          ],
+          "coachingPoints": [
+            "Encourage quick decision making",
+            "Support maintaining possession",
+            "Reward forward progression"
+          ]
+        },
+        "throughTheLine": {
+          "name": "Playing Through the Line",
+          "objective": "Break defensive lines with passing combinations",
+          "duration": 18,
+          "organization": "35x25 yards with 3 defenders in middle third",
+          "playerActions": [
+            "Wall pass combinations",
+            "Third man runs",
+            "Quick one-touch passing"
+          ],
+          "keyWords": [
+            "One-two",
+            "Through the gap",
+            "Quick feet",
+            "Third man"
+          ],
+          "coachingPoints": [
+            "Timing of runs",
+            "Quality of pass weight",
+            "Quick decision making"
+          ]
+        }
+      }
+    },
+    "U12": {
+      "format": "9v9",
+      "fieldSize": "full",
+      "focusAreas": [
+        "Positional play",
+        "Team shape",
+        "Transition play",
+        "Attacking in final third",
+        "Finishing",
+        "Creating scoring chances"
+      ],
+      "themes": [
+        "Scoring goals",
+        "Creating 2v1 situations",
+        "Movement in final third",
+        "Combination play",
+        "Shooting technique"
+      ],
+      "drills": {
+        "scoringFreePlay": {
+          "name": "7v7 Scoring Game",
+          "objective": "Create scoring chances and score goals",
+          "duration": 20,
+          "organization": "Half field, 7v7 with small goals, fields with regular goal and GK",
+          "playerActions": [
+            "Shoot",
+            "Pass or dribble forward",
+            "Create 2v1 or 1v1"
+          ],
+          "keyWords": [
+            "Opening",
+            "Finish",
+            "Connect",
+            "Take them on"
+          ],
+          "guidedQuestions": [
+            "When should we finish the ball at goal?",
+            "What should you do to take a defender on?",
+            "What is a good time to pass vs. shoot?"
+          ],
+          "coachingPoints": [
+            "Encourage shooting when in range",
+            "Recognize good movement off ball",
+            "Support creative attacking play"
+          ]
+        },
+        "goalsSideZones": {
+          "name": "Finishing with Side Zones",
+          "objective": "Create scoring chances and score goals",
+          "duration": 20,
+          "organization": "Half field set up into 3 zones, 6v6 with side zones for crossing",
+          "playerActions": [
+            "Shoot",
+            "Pass or dribble forward",
+            "Create 2v1 or 1v1",
+            "Cross from wide areas"
+          ],
+          "keyWords": [
+            "Opening",
+            "Finish",
+            "Connect",
+            "Take them on",
+            "Combine"
+          ],
+          "guidedQuestions": [
+            "When is a good time to finish?",
+            "If we are in front of an opening what should we do to connect with a teammate?",
+            "What can we do to combine?"
+          ],
+          "coachingPoints": [
+            "Timing of runs into box",
+            "Quality of crosses",
+            "Finishing technique under pressure"
+          ]
+        },
+        "transitionalScoring": {
+          "name": "Transition to Attack 4v4+GK",
+          "objective": "Score quickly after winning possession",
+          "duration": 18,
+          "organization": "Half field with full goal, 4v4+GK",
+          "playerActions": [
+            "Recognize transition moment",
+            "Attack space quickly",
+            "Finish with first opportunity"
+          ],
+          "keyWords": [
+            "Now!",
+            "Forward!",
+            "Shoot!",
+            "Support!"
+          ],
+          "guidedQuestions": [
+            "What should we do immediately after winning the ball?",
+            "Where should you look when your team wins possession?"
+          ],
+          "coachingPoints": [
+            "Speed of transition",
+            "Recognize windows of opportunity",
+            "Clinical finishing"
+          ]
+        },
+        "combinationFinishing": {
+          "name": "Combination Play to Goal",
+          "objective": "Use combination play to create shooting opportunities",
+          "duration": 20,
+          "organization": "Attacking third, 5v5+GK with emphasis on final pass",
+          "playerActions": [
+            "Wall passes",
+            "Overlapping runs",
+            "Third man combinations",
+            "Quick finishes"
+          ],
+          "keyWords": [
+            "One-two",
+            "Overlap",
+            "Through ball",
+            "Finish first time"
+          ],
+          "coachingPoints": [
+            "Timing and weight of passes",
+            "Movement off the ball",
+            "Composure in front of goal"
+          ]
+        },
+        "widePlay": {
+          "name": "Wide Play and Crossing",
+          "objective": "Deliver quality crosses and finish from crosses",
+          "duration": 18,
+          "organization": "Full field width, attacking third, 6v4+GK",
+          "playerActions": [
+            "Get into wide positions",
+            "Deliver quality crosses",
+            "Attack near and far post",
+            "Finish crosses"
+          ],
+          "keyWords": [
+            "Get wide",
+            "Cross it",
+            "Near post",
+            "Far post",
+            "Attack the ball"
+          ],
+          "coachingPoints": [
+            "Quality of delivery",
+            "Timing of runs",
+            "Finishing technique from crosses"
+          ]
+        }
+      }
+    },
+    "U14": {
+      "format": "11v11",
+      "fieldSize": "full",
+      "focusAreas": [
+        "Advanced tactics",
+        "Set pieces",
+        "Pressing as a unit",
+        "Counter-attacking",
+        "Defensive organization",
+        "High press"
+      ],
+      "themes": [
+        "Team pressing",
+        "Counter press",
+        "Build up under pressure",
+        "Defensive shape",
+        "Quick transitions"
+      ],
+      "drills": {
+        "counterPressing": {
+          "name": "Counter Press 8v8",
+          "objective": "Win ball back immediately after losing possession",
+          "duration": 20,
+          "organization": "40x40 yards, 8v8 with small goals",
+          "playerActions": [
+            "Immediate pressure on ball",
+            "Cut passing lanes",
+            "Support pressing player",
+            "Win ball back quickly"
+          ],
+          "keyWords": [
+            "Press now!",
+            "Cut the lane",
+            "Support",
+            "Win it back"
+          ],
+          "coachingPoints": [
+            "Trigger moments for pressing",
+            "Compact team shape",
+            "Quick reaction to loss"
+          ]
+        },
+        "buildUnderPressure": {
+          "name": "Build Out Under High Press",
+          "objective": "Maintain possession and build from back vs pressure",
+          "duration": 20,
+          "organization": "Half field, 7v7+GK with pressing zones",
+          "playerActions": [
+            "Quick decision making",
+            "Movement off ball",
+            "Find third man",
+            "Break pressing lines"
+          ],
+          "keyWords": [
+            "Move it quick",
+            "Find the free man",
+            "Break the line",
+            "Switch play"
+          ],
+          "coachingPoints": [
+            "Speed of play",
+            "Finding numerical advantages",
+            "Breaking pressing traps"
+          ]
+        },
+        "counterAttack": {
+          "name": "Counter Attack Speed",
+          "objective": "Attack quickly after regaining possession",
+          "duration": 18,
+          "organization": "Full field, 7v7+2GK",
+          "playerActions": [
+            "Forward pass immediately",
+            "Sprint forward",
+            "Overload attack",
+            "Finish quickly"
+          ],
+          "keyWords": [
+            "Forward now!",
+            "Sprint!",
+            "Numbers up",
+            "Finish"
+          ],
+          "coachingPoints": [
+            "Recognition of counter moment",
+            "Speed of execution",
+            "Clinical finishing"
+          ]
+        }
+      }
+    },
+    "U16": {
+      "format": "11v11",
+      "fieldSize": "full",
+      "focusAreas": [
+        "Match-realistic tactics",
+        "Advanced positioning",
+        "Complex team strategies",
+        "Set piece execution",
+        "Game management"
+      ],
+      "themes": [
+        "Tactical flexibility",
+        "In-game adjustments",
+        "Exploiting weaknesses",
+        "Team cohesion",
+        "Match intelligence"
+      ],
+      "drills": {
+        "tacticalShifting": {
+          "name": "Formation Shifting Game",
+          "objective": "Adapt formation based on game situation",
+          "duration": 25,
+          "organization": "Full field, 11v11 with tactical scenarios",
+          "playerActions": [
+            "Recognize tactical moment",
+            "Shift formation",
+            "Maintain team shape",
+            "Exploit space created"
+          ],
+          "keyWords": [
+            "Shift now",
+            "Hold shape",
+            "Exploit space",
+            "Maintain balance"
+          ],
+          "coachingPoints": [
+            "Reading the game",
+            "Communication during shifts",
+            "Maintaining defensive balance"
+          ]
+        },
+        "setPieceExecution": {
+          "name": "Set Piece Situations",
+          "objective": "Execute planned set pieces effectively",
+          "duration": 20,
+          "organization": "Various set piece locations, 11v11",
+          "playerActions": [
+            "Execute assigned runs",
+            "Time movements",
+            "Deliver quality service",
+            "Finish opportunities"
+          ],
+          "keyWords": [
+            "On signal",
+            "Timing",
+            "Attack space",
+            "Quality delivery"
+          ],
+          "coachingPoints": [
+            "Precision of execution",
+            "Timing coordination",
+            "Finishing composure"
+          ]
+        }
+      }
+    }
+  },
+  "fiveElementsOfTraining": [
+    {
+      "element": "Organized",
+      "question": "Is the exercise organized in the right way?",
+      "description": "Clear boundaries, appropriate equipment, smooth transitions"
+    },
+    {
+      "element": "Game-like",
+      "question": "Is the exercise game-like?",
+      "description": "Realistic scenarios, decision making, opposed play"
+    },
+    {
+      "element": "Repetitions",
+      "question": "Are there repetitions when looking at the overall goal of the session?",
+      "description": "Sufficient touches, multiple attempts, skill repetition"
+    },
+    {
+      "element": "Challenging",
+      "question": "Are the players being challenged? Is there the right balance between being successful and unsuccessful?",
+      "description": "Appropriate difficulty, room for growth, achievable goals"
+    },
+    {
+      "element": "Coaching",
+      "question": "Are you providing the right amount and type of coaching?",
+      "description": "Guided discovery, positive reinforcement, tactical cues"
+    }
+  ],
+  "sessionReflection": [
+    "How did you achieve your goals of the training session?",
+    "What did you do well?",
+    "What could you do better?",
+    "Did the players enjoy the session?",
+    "What will you focus on next session?"
+  ],
+  "formationTraining": {
+    "1-2-1": {
+      "ageGroup": "U6",
+      "drills": [
+        "Basic positioning in lines",
+        "Understanding goalkeeper role",
+        "Forward runs and shots",
+        "Defender positioning near goal",
+        "Simple shape recognition"
+      ],
+      "keyFocus": "Learning positions and basic shape"
+    },
+    "2-3-1": {
+      "ageGroup": "U8",
+      "drills": [
+        "Width in attack",
+        "Midfield support play",
+        "Defensive line coordination",
+        "Forward link-up play",
+        "Spreading out across field"
+      ],
+      "keyFocus": "Creating width and midfield presence"
+    },
+    "2-3-2": {
+      "ageGroup": "U10",
+      "drills": [
+        "Triangle support patterns",
+        "Central midfield control",
+        "Wide midfielder roles",
+        "Two-forward partnerships",
+        "Defensive balance"
+      ],
+      "keyFocus": "Team balance and support play"
+    },
+    "3-2-3": {
+      "ageGroup": "U12",
+      "drills": [
+        "Three-back defensive shape",
+        "Central midfield control",
+        "Attacking width with three forwards",
+        "Transition from defense to attack",
+        "Compact defending"
+      ],
+      "keyFocus": "Balance between defense and attack"
+    },
+    "4-3-3": {
+      "ageGroup": "U14",
+      "drills": [
+        "Four-back defensive line",
+        "Midfield triangle variations",
+        "Wide forward positioning",
+        "High pressing system",
+        "Building from the back"
+      ],
+      "keyFocus": "Attacking possession football"
+    },
+    "4-4-2": {
+      "ageGroup": "U14+",
+      "drills": [
+        "Four-back defensive line",
+        "Midfield diamond variations",
+        "Two-striker partnerships",
+        "Compact team shape",
+        "Full-field pressing",
+        "Wide midfielder roles"
+      ],
+      "keyFocus": "Advanced team tactics and shape"
+    },
+    "4-2-3-1": {
+      "ageGroup": "U16",
+      "drills": [
+        "Double pivot midfield",
+        "Attacking midfielder creativity",
+        "Wide player combinations",
+        "False 9 movements",
+        "Tactical flexibility"
+      ],
+      "keyFocus": "Modern tactical systems"
+    }
+  },
+  "coachingPhilosophy": {
+    "developmentFocus": [
+      "Player enjoyment and engagement",
+      "Technical skill development",
+      "Tactical understanding",
+      "Physical literacy",
+      "Psychological resilience",
+      "Social development"
+    ],
+    "playPracticePlan": {
+      "description": "US Soccer Grassroots methodology emphasizing game-based learning",
+      "structure": [
+        "Play Phase 1: Free play to warm up and explore",
+        "Guided Practice: Focused skill development",
+        "Play Phase 2: Apply skills in game context",
+        "Celebrate: Review and recognize achievements"
+      ]
+    },
+    "keyPrinciples": [
+      "Make it fun",
+      "Encourage creativity",
+      "Support risk-taking",
+      "Provide appropriate challenges",
+      "Focus on learning over winning",
+      "Foster a growth mindset"
+    ]
+  }
+}

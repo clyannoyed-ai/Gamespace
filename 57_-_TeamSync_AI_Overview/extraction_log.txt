@@ -1,0 +1,123 @@
+
+================================================================================
+MA YOUTH SOCCER DRILL EXTRACTION
+Comprehensive VLM Data Generation
+================================================================================
+
+================================================================================
+STEP 1: DOWNLOADING ALL MA YOUTH SOCCER SESSION PLAN PDFs
+================================================================================
+
+
+📥 Downloading U6 Session Plans (10 files)...
+  ✗ Failed to download U6-Week-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-5.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-5.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-4.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-4.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-3.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-3.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-8.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-8.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-6.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-6.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-10.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-10.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-7.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-7.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U6-Week-9.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U6-Week-9.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+
+📥 Downloading U8 Session Plans (12 files)...
+  ✗ Failed to download U8-Week-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-3.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-3.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-4.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-4.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-5.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-5.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-6.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-6.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-7.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-7.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-8.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-8.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-10.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-10.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-9.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-9.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-11.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-11.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U8-Week-12.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U8-Week-12.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+
+📥 Downloading U10 Session Plans (12 files)...
+  ✗ Failed to download U10-Building-Up-in-Own-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Building-Up-in-Own-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Building-Up-in-Opponents-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Building-Up-in-Opponents-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Building-Up-in-Opponents-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Building-Up-in-Opponents-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Scoring-Goals-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Scoring-Goals-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Building-Up-in-Own-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Building-Up-in-Own-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Scoring-Goals-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Scoring-Goals-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Preventing-Build-Up-in-Opponents-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Preventing-Build-Up-in-Opponents-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Preventing-Build-Up-in-Opponents-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Preventing-Build-Up-in-Opponents-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Preventing-Build-Up-in-Own-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Preventing-Build-Up-in-Own-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Preventing-Build-Up-in-Own-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Preventing-Build-Up-in-Own-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Preventing-Goals-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Preventing-Goals-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U10-Preventing-Goals-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U10-Preventing-Goals-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+
+📥 Downloading U12 Session Plans (11 files)...
+  ✗ Failed to download U12-Building-Up-in-Own-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Building-Up-in-Own-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Building-Up-in-Own-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Building-Up-in-Own-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Building-Up-in-Opponents-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Building-Up-in-Opponents-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Building-Up-in-Opponents-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Building-Up-in-Opponents-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Scoring-Goals-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Scoring-Goals-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Scoring-Goals-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Scoring-Goals-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Preventing-Build-Up-in-Own-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Preventing-Build-Up-in-Own-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Preventing-Build-Up-in-Opponents-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Preventing-Build-Up-in-Opponents-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Preventing-Build-Up-in-Opponents-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Preventing-Build-Up-in-Opponents-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Preventing-Build-Up-in-Own-Half-2.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Preventing-Build-Up-in-Own-Half-2.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U12-Preventing-Goals-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U12-Preventing-Goals-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+
+📥 Downloading U14 Session Plans (6 files)...
+  ✗ Failed to download U14-Building-Up-in-Own-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U14-Building-Up-in-Own-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U14-Building-Up-in-Opponents-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U14-Building-Up-in-Opponents-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U14-Scoring-Goals-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U14-Scoring-Goals-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U14-Preventing-Build-Up-in-Own-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U14-Preventing-Build-Up-in-Own-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U14-Preventing-Build-Up-in-Opponents-Half-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U14-Preventing-Build-Up-in-Opponents-Half-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+  ✗ Failed to download U14-Preventing-Goals-1.pdf: HTTPSConnectionPool(host='www.mayouthsoccer.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/08/U14-Preventing-Goals-1.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+
+✅ Downloaded 0 PDFs successfully
+
+================================================================================
+STEP 2: EXTRACTING DRILLS FROM ALL PDFs
+================================================================================
+
+
+📋 Processing U6 Session Plans (0 files)...
+  U6: 0it [00:00, ?it/s]  U6: 0it [00:00, ?it/s]
+  ✅ Extracted 0 drills from U6
+
+📋 Processing U8 Session Plans (0 files)...
+  U8: 0it [00:00, ?it/s]  U8: 0it [00:00, ?it/s]
+  ✅ Extracted 0 drills from U8
+
+📋 Processing U10 Session Plans (0 files)...
+  U10: 0it [00:00, ?it/s]  U10: 0it [00:00, ?it/s]
+  ✅ Extracted 0 drills from U10
+
+📋 Processing U12 Session Plans (0 files)...
+  U12: 0it [00:00, ?it/s]  U12: 0it [00:00, ?it/s]
+  ✅ Extracted 0 drills from U12
+
+📋 Processing U14 Session Plans (0 files)...
+  U14: 0it [00:00, ?it/s]  U14: 0it [00:00, ?it/s]
+  ✅ Extracted 0 drills from U14
+
+✅ Total drills extracted: 0
+
+================================================================================
+STEP 3: SAVING DRILLS TO JSON
+================================================================================
+
+✅ Saved 0 drills to: /home/ubuntu/teamsync_ai/nextjs_space/lib/mayouthsoccer-drills.json
+
+================================================================================
+EXTRACTION SUMMARY
+================================================================================
+
+Drills by Age Group:
+
+Drills by Category:
+
+📊 Total: 0 drills
+📁 Output file: /home/ubuntu/teamsync_ai/nextjs_space/lib/mayouthsoccer-drills.json
+💾 File size: 0.0 KB
+
+================================================================================
+✅ EXTRACTION COMPLETE in 0.4 seconds
+================================================================================
+

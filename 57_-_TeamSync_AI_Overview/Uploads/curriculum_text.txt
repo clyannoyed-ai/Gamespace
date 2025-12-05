@@ -1,0 +1,2243 @@
+Comprehensive Soccer Training
+Curriculum Blueprint (U6 to U14)
+This blueprint contains a curriculum spanning U6 through U14, with age-scaled field
+dimensions, player counts, grouping recommendations, and PvP classification for all drills.
+Field Geometry: 120 units (Length) x 80 units (Width) (Master Field)
+
+1. Field Definitions and Scaling (Age-Appropriate
+Training Areas)
+All drills are conducted within these defined training areas, which are scaled versions of the
+120x80 master grid.
+Component
+Value
+Notes
+Field Orientation
+Horizontal (Landscape)
+X runs 0-120 (Length), Y runs
+0-80 (Width).
+U6 Training Area (3v3)
+45 units x 30 units
+Coordinates: X: 37.5 to 82.5, Y:
+25 to 55
+U8 Training Area (4v4)
+60 units x 40 units
+Coordinates: X: 30 to 90, Y: 20
+to 60
+U10 Training Area (7v7)
+90 units x 60 units
+Coordinates: X: 15 to 105, Y:
+10 to 70
+U12 Training Area (9v9)
+100 units x 70 units
+Coordinates: X: 10 to 110, Y: 5
+to 75
+U14 Training Area (11v11)
+120 units x 80 units
+Coordinates: X: 0 to 120, Y: 0
+to 80 (Full Field)
+
+2. Training Curriculum by Age Group
+A. U6 Grassroots Blueprint (Ages 5-6) - Focus: Ball Familiarity &
+Individual Control
+Training Note: All coordinates are contained within the 45x30 unit area.
+Week
+Drill ID
+Focus
+Player Count PvP?
+Grouping
+(Name &
+Strategy
+Setup)
+
+W1
+
+Pirate Ship
+Dribbling
+
+Ball Control 5+
+& Awareness
+
+Non-PvP
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+1 group,
+P1-P5
+every player dribble freely
+with a ball. in the 45x30
+area. Coach
+calls "Red
+Light" (stop
+ball), "Green
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+W2
+
+Sleeping
+Giant (Toe
+Taps)
+
+Coordination 1+
+& Footwork
+
+W3
+
+Ball Painting Dribbling
+Surfaces
+
+5+
+
+Non-PvP
+
+W4
+
+Freeze Tag
+(3v1)
+
+4
+
+PvP
+
+Shielding &
+Dribbling
+under
+Pressure
+
+Player Count PvP?
+
+Non-PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+Light"
+(dribble),
+"Anchor
+Drop" (sole
+roll). P1
+focuses on
+keeping the
+ball within 1
+unit of their
+feet.
+1 group,
+P1 stands
+players
+over the ball,
+rotate.
+performing
+toe taps
+(alternating
+feet touching
+the top of the
+ball). The
+coach is the
+'giant'. If the
+giant wakes
+up, P1 must
+stop the ball
+instantly.
+1 group,
+P1 uses the
+every player inside and
+with a ball. outside of
+their foot to
+'paint' the
+grass in the
+45x30 grid.
+The ball is
+the 'paint
+brush'. Focus
+on gentle,
+push-pull
+touches.
+2 groups of 4 P1-P3 pass
+(3 attackers and dribble
+vs 1
+to avoid OP1
+defender) to (the tagger).
+maximize
+If tagged, P1
+active time. freezes until
+a teammate
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W5
+
+Shooting
+Volcano
+
+Shooting
+Power &
+Direction
+
+1+
+
+Non-PvP
+
+W6
+
+Pass the
+River
+
+Short
+Passing
+Technique
+
+2+
+
+Non-PvP
+
+W7
+
+Stop and
+Start
+
+Change of
+Pace &
+Direction
+
+1+
+
+Non-PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+passes the
+ball to them
+to unfreeze.
+Focus on P1
+positioning
+their body
+between the
+ball and
+OP1.
+2 lines of
+P1 dribbles
+shooters.
+from X=40
+and shoots
+toward a
+large goal at
+X=70.
+Emphasize
+running into
+the ball and
+kicking with
+the laces
+(the 'volcano'
+top).
+2 lines of
+P1 and P2
+passers.
+stand 8 units
+apart (P1 at
+X=45, P2 at
+X=53). P1
+uses the
+inside of the
+foot to
+execute a
+gentle,
+accurate
+pass directly
+to P2's foot.
+P1 then joins
+the back of
+P2's line.
+1 group, solo P1 dribbles
+technique. at full speed
+for 5 units
+(X=40 to
+X=45),
+performs an
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W8
+
+Ball Tag
+
+Control and 5+
+Evasion
+
+W9
+
+Goalkeeper Catching/Rec 1+
+Fun (No
+eiving with
+Hands)
+Feet
+
+PvP
+
+Non-PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+abrupt
+pull-back
+turn, and
+immediately
+accelerates
+in the
+opposite
+direction (to
+X=35). Focus
+on sudden
+bursts of
+speed.
+1 large group P1-P4
+(Tagger vs. dribble in the
+Dribblers). grid. OP1
+attempts to
+kick their ball
+out of the
+area. P1
+must use
+tight turns
+and body
+feints to
+evade OP1
+while
+maintaining
+possession.
+1 group,
+C rolls slow
+players
+balls to P1
+rotate.
+(acting as
+keeper in a
+small 3x3
+goal). P1
+must receive
+the ball with
+the sole of
+the foot and
+gently stop it,
+then
+immediately
+pass it back
+to the coach
+with the
+inside of the
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W10
+
+3v3
+Scrimmage
+
+Game
+Application
+
+6
+
+PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+foot.
+1 group of 6 P1-P3 vs.
+(or 2 games OP1-OP3
+of 3v3 if 12+ play 3v3 in
+players).
+the full 45x30
+area. Focus
+on
+encouraging
+players to
+dribble and
+shoot.
+
+B. U8 Grassroots Blueprint (Ages 7-8) - Focus: Decision Making in
+Small Spaces & Basic Passing
+Training Note: All coordinates are contained within the 60x40 unit area (X: 30-90, Y: 20-60).
+Week
+Drill ID
+Focus
+Player Count PvP?
+Grouping
+Context
+(Name &
+Strategy
+(Detailed
+Setup)
+Player
+Movement
+Visualization
+Language)
+W1
+Possession: Keeping the 7
+PvP
+2 groups of 7 P1-P6
+Keepaway Ball /
+(6 attackers dribble freely
+Kings
+Dribbling
+vs 1
+in a 40x30
+defender) to grid (X=40
+ensure
+to X=80,
+small-sided Y=25 to
+density.
+Y=55). P1
+must take
+small,
+controlled
+touches with
+all surfaces
+of the foot to
+keep the ball
+away from
+the
+designated
+defender
+(OP1). If
+OP1 wins the
+ball, the ball
+carrier (P1)
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+Grouping
+Strategy
+
+W2
+
+Attack:
+Dribbling
+Freeway
+Race
+
+Dribbling to
+Penetrate /
+Speed
+
+1+
+
+Non-PvP
+
+2 lines of
+players.
+
+W3
+
+Escape: First 2
+Touch
+Escape
+
+Non-PvP
+
+W4
+
+Pass: Pass
+the Tunnel
+
+2+
+
+3 groups of 3 P1 receives
+(P, OP,
+a gentle pass
+C/Passer). from C at
+OP1
+X=50. OP1
+provides
+closes
+non-tackling rapidly (run
+pressure.
+from X=60).
+P1 must use
+their first
+touch to
+move the ball
+sharply away
+from the
+closing
+defender
+(OP1) and
+into open
+space (e.g.,
+control from
+X=50 to
+X=55, Y=45).
+Non-PvP
+2 lines of
+P1 and P2
+passers.
+stand 15
+
+Passing
+Technique
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+becomes the
+defender.
+P1 starts at
+X=40. On
+command,
+P1 must use
+a long,
+speed
+dribble into
+the
+designated
+attack zone
+(X=40 to
+X=75). P1
+must
+maintain full
+control and
+perform a
+stop-turn at
+X=75 before
+returning.
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+and
+Accuracy
+
+W5
+
+Support:
+Passing with 3
+Triangle
+Support/Mov
+Pass & Move ement
+
+Non-PvP
+
+W6
+
+Combo: Wall Combination 2
+
+Non-PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+units apart
+(P1 at X=45,
+P2 at X=60,
+Y=40). P1
+must use the
+inside of the
+foot to
+execute a
+medium-pac
+ed pass that
+goes cleanly
+through the
+'tunnel' (two
+cones placed
+3 units apart
+near P2). P1
+follows the
+pass to P2's
+position.
+3-4 triangles Continuous
+of 3.
+triangle
+passing
+between P1,
+P2, P3 (each
+10 units
+apart). P1
+passes to
+P2, then
+immediately
+moves
+(checks) 5
+units to the
+side to create
+a new
+passing
+angle
+(support) for
+P2.
+Continuous
+movement in
+a small,
+dense
+passing drill.
+2 lines,
+P1 passes to
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+Pass (Give
+and Go)
+
+Play
+
+W7
+
+Defend:
+Shadow
+Defending
+(1v1)
+
+Pressure on 2
+the Ball
+
+PvP
+
+W8
+
+Win Ball:
+Interceptions 3
+Intercept the and
+
+PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+working in
+P2 (the wall)
+pairs.
+at X=65. P1
+makes an
+immediate
+forward run
+to X=75. P2
+uses a
+quick,
+one-touch
+pass (Wall
+Pass) to
+return the
+ball to P1 in
+stride,
+allowing P1
+to accelerate
+and score
+into a small
+goal at X=80.
+3-4 stations OP1
+of 1v1.
+(Defender)
+starts 5 units
+from P1
+(Attacker).
+OP1 must
+approach P1
+with speed
+but slow
+down
+(jockey) upon
+closing the
+gap (around
+X=55),
+maintaining a
+low,
+balanced
+body
+position to
+delay the
+attack and
+apply
+pressure.
+3-4 groups of Two lines of
+3
+players 20
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+Line
+
+Reactions
+
+W9
+
+Finish:
+Shooting
+Gate
+
+Shooting
+Technique
+and
+Accuracy
+
+W10
+
+Game: 4v4 Full
+8
+Game Phase Application /
+Decision
+Making
+
+1+
+
+Non-PvP
+
+PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+(Pas-Int-Rec) units apart
+.
+(X=40,
+X=60). P1
+passes to
+P2. OP1 is
+positioned in
+the middle
+(X=50) and
+attempts to
+read the
+pass and
+sprint to
+intercept the
+ball before it
+reaches P2.
+Focus on
+quick
+reaction time
+over short
+distance.
+2 lines of
+P1 dribbles
+shooters.
+from X=40 to
+the Shooting
+Line at
+X=55. P1
+must strike
+the ball with
+the instep
+toward one
+of two small
+target goals
+(G1 at Y=30,
+G2 at Y=50).
+Emphasize
+accuracy and
+technique in
+the small
+space.
+1 game (or 2 P1-P4 (Blue)
+games of 4v4 and
+if 16+
+OP1-OP4
+players).
+(Red) play
+4v4 in the full
+60x40 area
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+(X=30 to
+X=90). P1
+attempts to
+dribble and
+beat the
+nearest
+opponent
+(OP1) or
+make a
+penetrating
+pass to a
+teammate
+(P2) to
+create a
+scoring
+chance in the
+confined
+space.
+
+C. U10 Grassroots Blueprint (Ages 9-10) - Focus: Positional
+Awareness & Combination Play
+Training Note: All coordinates are constrained within the 90x60 unit area (X: 15-105, Y: 10-70).
+Week
+Drill ID
+Focus
+Player Count PvP?
+Grouping
+Context
+(Name &
+Strategy
+(Detailed
+Setup)
+Player
+Movement
+Visualization
+Language)
+W1
+Building Up: Possession/ 10
+PvP (6v4)
+1 group (or 2 P1-P6
+6v4 Rondo Support in
+groups of 10 engage in a
+Tight Space
+if 20+
+Rondo within
+players).
+a 30x30
+square
+(X=45 to
+X=75, Y=25
+to Y=55). P1
+passes to
+P2. P1
+immediately
+checks
+away (5
+units) from
+the passing
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+W2
+
+Building Up: Build-Up /
+7v5 to End Width
+Zone
+Utilization
+
+W3
+
+Scoring:
+2v1/3v2
+Attacking
+Angles
+
+Player Count PvP?
+
+12
+
+Finishing /
+3-5
+Overloads /
+Decision
+Making
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+line to create
+a new
+passing
+angle
+(support) for
+P2 if
+pressured by
+OP1. Focus
+is on quick,
+short
+passing.
+PvP (7v5)
+1 large group Full 90x60
+(or 2 groups area. P2 and
+of 12 if 24+ P3
+players).
+(Defenders)
+move wide
+(Y=15,
+Y=65). P4
+(Midfielder)
+checks down
+for support.
+Objective:
+play forward,
+breaking the
+pressing line
+of OP1-OP3
+(around
+X=40), to
+P5/P6 for a
+final pass to
+P7 (in End
+Zone at
+X>95).
+PvP (2v1 or 3-4 stations Attack starts
+3v2)
+of 3-5
+at X=50. P2
+players.
+dribbles
+directly at
+OP1
+(Defender at
+X=65). P1
+makes an
+attacking
+run (overlap
+wide or
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W4
+
+Scoring: 6v6 Shooting &
+with Targets Support
+Movement
+
+W5
+
+Defending: Pressure/Co 3
+Pressure & ver/Balance
+Cover
+Progression
+
+14
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+underlap
+central
+toward
+X=85). P2
+must make
+the correct
+decision
+(dribble,
+pass, or
+shoot) at the
+decision
+cone (X=70).
+PvP (Game 1 group (Tgt Full 90x60
+format)
+players can area. T1
+be C/extras). (Target
+Player) is
+positioned
+wide on the
+boundary at
+X=90, Y=15.
+P1 passes
+from central
+X=40 to T1.
+T1 receives
+and passes
+back to a
+different
+teammate
+(P3) who has
+moved from
+X=50 to
+X=75 to
+create space
+for a shot.
+PvP (3v1
+4-5 groups of Drill in a
+pressure)
+3 (Defenders 45x30 area
+rotate).
+(X=40 to
+X=85). OP1
+applies
+immediate
+pressure to
+the ball (P1
+at X=45).
+OP2 must
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W6
+
+Defending:
+6v4
+Defensive
+Overload
+
+Defensive
+Shape and
+Delay
+
+10
+
+W7
+
+Transition: Speed of
+3
+Attacking
+Attack / First
+Counter-Atta Pass
+ck
+Forward
+
+PvP (6v4)
+
+PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+drop 8-10
+units behind
+(e.g., X=37)
+and shift
+laterally to
+provide
+Cover and
+Balance.
+Continuous
+rotational
+shift is
+mandatory.
+1 group (or 2 Attack starts
+groups of 10 at X=20.
+if 20+
+OP1-OP4
+players).
+shift laterally
+15 units to
+cover the
+flank being
+attacked.
+The
+defensive
+line must
+work to
+delay the
+attack at the
+Contain
+Line (X=60)
+and deny the
+pass into the
+central area.
+4-5 groups of P1 wins the
+3.
+ball from
+OP1 at
+X=40. P1
+must look
+for an
+immediate
+forward
+pass
+(trajectory of
+40 units) to
+P2 or P3 who
+is making a
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W8
+
+Transition: Immediate 3
+Defensive
+Reaction to
+Recovery/Pr Loss of
+essing
+Possession
+
+PvP
+
+W9
+
+Positional
+Positional
+Play: 7v7
+Discipline /
+Small-Sided Zonal
+Game
+Movement
+
+PvP (7v7)
+
+14
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+quick forward
+run into the
+final third
+(X>80).
+Focus on the
+speed of
+thought and
+execution of
+the
+penetrating
+pass.
+4-5 groups of P1 loses the
+3.
+ball to OP1
+at X=70. P1
+and the
+nearest
+teammate
+(P2) must
+sprint back
+(recover 30
+units) to get
+goal-side of
+the attack
+(e.g., X=40)
+while P3
+attempts to
+apply a
+counter-pres
+s to delay
+OP1.
+1 group (or 2 Full 90x60
+games of 7v7 area. P4
+if 28+
+(Central
+players).
+Midfielder)
+drops deep
+(X=30) to
+receive from
+P2
+(Defender).
+P4 turns and
+plays a
+forward pass
+to P6
+(Striker)
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W10
+
+Review:
+All-in 7v7
+Game Day
+
+Free Play / 14
+Full Review
+
+PvP (7v7)
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+making a run
+from X=75 to
+X=90.
+Movement
+must
+maintain the
+team shape
+(e.g., 2-3-1).
+1 group (or 2 P1-P7 (Blue)
+games of 7v7 and
+if 28+
+OP1-OP7
+players).
+(Red) play
+free,
+unscripted
+7v7 across
+the full
+90x60 unit
+area. Players
+apply all
+learned unit
+movements,
+pressing, and
+attacking
+combinations
+in a game
+environment.
+
+D. U12 Grassroots Blueprint (Ages 11-12) - Focus: Positional
+Discipline & Group Tactics (9v9)
+Training Note: All coordinates are contained within the 100x70 unit area (X: 10-110, Y: 5-75).
+Week
+Drill ID
+Focus
+Player Count PvP?
+Grouping
+Context
+(Name &
+Strategy
+(Detailed
+Setup)
+Player
+Movement
+Visualization
+Language)
+W1
+Thirds Game Positional
+14
+PvP (7v7)
+1 large group 100x70 field
+(7v7 to Goal) Play &
+(or 2 games is divided
+Transition
+of 7v7 if 28+ into 3 equal
+players).
+zones
+(Defensive,
+Midfield,
+Attacking).
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W2
+
+Crossing &
+Finishing
+(4v2 + GK)
+
+Crossing
+7
+Technique &
+Runs
+
+PvP (4v2)
+
+W3
+
+Attacking
+Depth &
+Width
+
+Creating
+Space &
+Angles
+
+Non-PvP
+
+4
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+P2
+(Defender)
+must stay in
+the
+Defensive
+Third (X<43).
+P5
+(Midfielder)
+must receive
+the ball from
+P2 and
+quickly
+combine with
+P7
+(Forward)
+who is
+making a run
+into the
+Attacking
+Third (X>77).
+Emphasize
+zonal limits.
+2 stations of P1 dribbles
+7 players.
+down the
+flank (Y=65)
+from X=30.
+P2, P3, P4
+make
+coordinated
+runs (near
+post, central,
+far post) into
+the penalty
+box (X>70).
+P1 delivers a
+weighted
+cross to the
+P2's run at
+the near
+post.
+4-5 groups of P3 (Winger)
+4. OP is a
+receives the
+cone or static ball wide at
+defender.
+(X=50,
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W4
+
+Defensive
+Shifting &
+3
+Recovery & Line Control
+Compactnes
+s
+
+PvP
+
+W5
+
+Heading &
+Air Ball
+Control
+
+PvP (1v1
+Contest)
+
+Aerial Duels 2
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+Y=70). P6
+(Striker)
+checks
+toward the
+ball (back to
+X=45) to
+occupy a
+defender,
+while P4
+(Midfielder)
+makes a
+penetrating
+run (forward
+to X=70) into
+the space
+created by
+P6.
+6-7 groups of OP1
+3 (Attacker penetrates
+vs 2
+the defensive
+Defenders). line (P2, P3)
+at X=60. P2
+and P3 must
+quickly drop
+back 10
+units and
+shift
+centrally 5
+units to deny
+the passing
+lane to OP3,
+maintaining a
+distance of
+no more than
+10 units
+between
+them
+(compactnes
+s).
+9-10 groups C serves a
+of 2.
+lofted ball
+from X=30 to
+the penalty
+spot (X=70).
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W6
+
+Attacking
+Overlaps
+(Fullback
+Runs)
+
+Combination 3
+Play (Flanks)
+
+Non-PvP
+
+W7
+
+Playing Out Goalkeeper 5
+of the Back & Defense
+(3v2)
+Distribution
+
+PvP (3v2)
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+P1 and OP1
+contest the
+ball. P1 must
+win the
+aerial duel
+and direct
+the header
+down to a
+teammate
+(P2) or
+toward the
+goal.
+6-7 groups of P2
+3. OP is
+(Fullback)
+passive.
+passes to P3
+(Winger) at
+X=45, Y=60.
+P2
+immediately
+sprints on
+the outside
+(Overlap Run
+to X=70,
+Y=70). P3
+holds the
+ball, drawing
+OP1, then
+plays a
+through
+pass to the
+running P2.
+3-4 groups of P1 (GK)
+5.
+passes short
+to P2
+(Center
+Back) in the
+18-yard box.
+P2 is
+immediately
+pressured by
+OP1, OP2.
+P2 must find
+the P3
+(Fullback)
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+Grouping
+Strategy
+
+W8
+
+Midfield
+Receiving on 6
+Diamond
+the Turn &
+Possession Vision
+(Rondos)
+
+PvP (4v2
+Rondo)
+
+3 groups of
+6.
+
+W9
+
+Defensive
+Holding the 4
+Communicati Line / Offside
+on &
+Trap Prep
+Organization
+
+Non-PvP
+
+5 groups of
+4. OP is
+passive.
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+who has
+moved wide
+(Y=10) to
+open the
+passing lane
+and beat the
+high press.
+P4, P5, P6,
+P7 create a
+15x15
+diamond
+(X=50-65,
+Y=30-45). P5
+receives the
+pass from
+P4, checks
+their
+shoulder,
+and uses a
+half-turn to
+play the ball
+to P6 in a
+forward
+direction,
+advancing
+play under
+pressure
+from OP1,
+OP2.
+The
+defensive
+line (P2, P3,
+P4) holds a
+straight line
+at X=70. The
+line moves
+as a unit 5
+units forward
+(to X=75) on
+the coach's
+call,
+attempting to
+keep the
+opposing
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W10
+
+9v9 Full Field Game
+18
+Game
+Application &
+Positional
+Discipline
+
+PvP (9v9)
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+attacker
+(OP1) in an
+offside
+position (at
+X=76).
+Emphasize
+communicati
+on for unity.
+1 group (or 2 P1-P9 vs.
+games of 9v9 OP1-OP9
+if 36+
+play 9v9 in
+players).
+the full
+100x70 area.
+Focus on
+maintaining
+team shape
+(e.g., 3-3-2)
+and applying
+defensive
+principles
+over a larger
+area.
+
+E. U14 Grassroots Blueprint (Ages 13-14) - Focus: Tactical Principles
+& Set Pieces (11v11 Prep)
+Training Note: All coordinates are applied to the 120x80 full field (X: 0-120, Y: 0-80).
+Week
+Drill ID
+Focus
+Player Count PvP?
+Grouping
+Context
+(Name &
+Strategy
+(Detailed
+Setup)
+Player
+Movement
+Visualization
+Language)
+W1
+Pressing
+High Press & 10
+PvP (5v5)
+2 groups of Drill in the
+Trap
+Forcing
+10.
+attacking half
+(Half-Field) Mistakes
+(X=60 to
+X=120). P7
+(Striker) cuts
+off the pass
+to the
+outside back
+(OP2). P8
+(Winger)
+applies high
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W2
+
+Switching the Speed of Ball 3
+Point of
+Movement &
+Attack
+Vision
+
+Non-PvP
+
+W3
+
+Defensive
+Zonal
+Set Piece
+Marking /
+(Corner Kick) Clearances
+
+PvP
+
+15+
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+pressure to
+the center
+back (OP1)
+who is forced
+to pass wide
+to OP3. P9
+(Midfielder)
+then sprints
+to intercept
+the pass,
+executing the
+pressing
+trap.
+7-8 groups of P3
+3 (working (Defender)
+across full
+receives the
+field).
+ball on the
+left side
+(Y=20). P3
+makes a
+long,
+diagonal
+pass
+(trajectory of
+60+ units)
+across the
+field to P8
+(Winger)
+who is
+positioned
+wide on the
+opposite
+flank (Y=70).
+The switch
+changes the
+defensive
+focus of the
+opponent.
+Full squad OP1 takes a
+(working
+corner from
+together). OP (X=105,
+is the kicking Y=80). P2
+team.
+marks the
+goal line. P5,
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W4
+
+Attacking Set Coordinated 5
+Piece (Free Runs /
+Kick)
+Finishing
+
+W5
+
+Tactical
+System
+22
+11v11 Game Implementati
+(Full Field) on
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+P6 defend
+the zonal
+spaces (near
+post and
+center box).
+P10 (Tallest
+Player) is
+assigned the
+clearance
+area and
+must jump to
+head the ball
+out of the
+18-yard box.
+Non-PvP
+4 groups of 5 Free kick
+(working set taken by P4
+pieces). OP from X=80.
+is passive. P6 starts at
+the near post
+and runs to
+the far post.
+P7 makes a
+diagonal run
+from the far
+side toward
+the center of
+the goal. P4
+delivers a
+low-driven
+pass
+(trajectory) to
+catch P7 in
+stride for a
+one-touch
+shot.
+PvP (11v11) Full squad (1 Full 120x80
+group).
+area. Team
+plays in a
+defined
+system (e.g.,
+4-3-3).
+Coach calls
+out tactical
+instructions
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W6
+
+Maintaining Collective
+Defensive
+Unit
+Shape
+Movement
+(4-4-2)
+
+8
+
+Non-PvP
+
+W7
+
+Attacking
+Finding
+Midfielder
+Space
+Movement Between
+(The No. 10) Lines
+
+5
+
+PvP
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+(e.g., "Press
+higher" or
+"Utilize the
+Overlap").
+Players must
+adjust their
+position and
+movement
+accordingly,
+requiring
+high soccer
+IQ.
+2 groups of 8 The two lines
+(Def/Mid
+of four
+lines).
+(Defenders
+P2-P5 and
+Midfielders
+P6-P9) move
+15 units
+laterally to
+shift from the
+center to the
+sideline
+(Y=10) as a
+compact unit,
+maintaining
+the 10-unit
+distance
+between the
+two lines.
+Focus on
+communicati
+on and
+avoiding
+gaps.
+4 groups of P7
+5. OP is
+(Attacking
+passive
+Mid)
+defense.
+operates
+between the
+opposing
+Midfield line
+(X=50) and
+Defensive
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W8
+
+Counter-Atta Transition
+3
+cking Speed from Defense
+to Attack
+
+W9
+
+Possession Strategic
+vs.
+Decision
+Penetration Making
+
+22
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+line (X=70).
+P7 checks
+into space to
+receive a
+pass from P5
+(Defensive
+Mid), quickly
+turns, and
+plays a
+through ball
+(penetrating
+pass) behind
+the
+defenders to
+P9 (Striker).
+Non-PvP
+7-8 groups of P1 makes a
+3 (GK/Long save. P1
+Pass/Runner immediately
+).
+launches a
+long, lofted
+ball
+(trajectory of
+80+ units)
+directly to P8
+(Winger)
+who has
+sprinted to
+the far corner
+(X=110,
+Y=10),
+bypassing
+the entire
+midfield for a
+fast break
+opportunity.
+PvP (11v11) Full squad (1 11v11 game.
+group).
+P1-P11
+maintain
+possession
+with short,
+safe passes
+for 5 passes
+(possession
+phase). On
+
+Week
+
+Drill ID
+(Name &
+Setup)
+
+Focus
+
+Player Count PvP?
+
+W10
+
+Full Game
+Analysis &
+Scrimmage
+
+Review &
+Coaching
+
+22
+
+Grouping
+Strategy
+
+Context
+(Detailed
+Player
+Movement
+Visualization
+Language)
+the 6th pass,
+they must
+execute a
+penetrating
+pass that
+travels more
+than 20 units
+forward into
+the attacking
+third.
+PvP (11v11) Full squad (1 Full 11v11
+group).
+scrimmage in
+the 120x80
+area. Focus
+on player
+self-analysis,
+identifying
+when the
+team is too
+stretched
+(losing
+compactness
+) or too
+narrow
+(losing
+width).
+
+

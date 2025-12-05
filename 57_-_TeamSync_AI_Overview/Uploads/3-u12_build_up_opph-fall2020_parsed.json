@@ -1,0 +1,20 @@
+{
+  "sessionMetadata": {
+    "ageGroup": "U11",
+    "format": "2v1",
+    "goal": "PLAYER ACTIONS",
+    "playerActions": [
+      "Pass or dribble forward",
+      "Spread out",
+      "Support the attack",
+      "Create a 2v1 or 1v1"
+    ],
+    "keyQualities": [
+      "Read the game",
+      "Focus",
+      "Optimal technical abilities"
+    ],
+    "duration": 60
+  },
+  "drills": []
+}

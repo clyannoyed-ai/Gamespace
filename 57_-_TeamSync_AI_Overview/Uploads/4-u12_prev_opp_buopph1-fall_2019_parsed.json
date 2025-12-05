@@ -1,0 +1,98 @@
+{
+  "sessionMetadata": {
+    "format": "9v9",
+    "goal": "PLAYER ACTIONS",
+    "playerActions": [
+      "KEY QUALITIES"
+    ],
+    "keyQualities": [
+      "MOMENT"
+    ],
+    "duration": 60,
+    "playerCount": "16"
+  },
+  "drills": [
+    {
+      "name": "Intentional Free Play",
+      "type": "PLAY PHASE",
+      "ageGroup": "U8",
+      "focus": "Build Up",
+      "category": "PLAY PHASE",
+      "duration": 20,
+      "intervals": 3,
+      "activityTime": "5 minutes",
+      "restTime": "1 min",
+      "objective": "To keep the opposition from moving the ball forward and try to regain the",
+      "playerActions": [
+        "Pressure",
+        "cover and balance",
+        "Get and make it compact",
+        "Steal the ball"
+      ],
+      "organization": "Set up two or more 20Wx30L fields with a goal at each end. Play 1v1,",
+      "keyWords": [
+        "Hassle the opponent",
+        "Work together",
+        "Tackle or poke."
+      ],
+      "guidedQuestions": [
+        "1. Who should pressure the ball?",
+        "2. Why do we need to work\ntogether?",
+        "3. When should you steal the ball?"
+      ],
+      "answers": [
+        "The closest defender press the player with the ball",
+        "To get and stay\ncompacted to prevent them from moving the ball forward 3"
+      ],
+      "fieldSize": "20x30",
+      "totalDuration": 20,
+      "sessionGoal": "PLAYER ACTIONS",
+      "sessionPlayerActions": [
+        "KEY QUALITIES"
+      ],
+      "sessionKeyQualities": [
+        "MOMENT"
+      ]
+    },
+    {
+      "name": "The Game",
+      "type": "PLAY PHASE",
+      "ageGroup": "U8",
+      "focus": "Build Up",
+      "category": "PLAY PHASE",
+      "duration": 20,
+      "activityTime": "8 minutes",
+      "restTime": "2 min",
+      "objective": "To keep the opposition from moving the ball forward and try to regain the",
+      "playerActions": [
+        "Pressure",
+        "cover and balance",
+        "Get and make it compact",
+        "Steal the ball"
+      ],
+      "organization": "In a 50Wx80L field play 8v8. The Blue team will play in 1-2-2-3 formation",
+      "keyWords": [
+        "Attack the ball",
+        "Work together",
+        "Tackle or poke."
+      ],
+      "guidedQuestions": [
+        "1. Who should attack the player with the ball?",
+        "2. Why do we need to\nwork together?",
+        "3. When should you steal the ball?"
+      ],
+      "answers": [
+        "The closest defender presses the player with the ball",
+        "To get and stay\ncompacted to prevent them from moving the ball forward"
+      ],
+      "fieldSize": "50x80",
+      "sessionGoal": "PLAYER ACTIONS",
+      "sessionPlayerActions": [
+        "KEY QUALITIES"
+      ],
+      "sessionKeyQualities": [
+        "MOMENT"
+      ]
+    }
+  ]
+}

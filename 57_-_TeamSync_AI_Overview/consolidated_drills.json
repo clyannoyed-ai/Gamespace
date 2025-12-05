@@ -1,0 +1,481 @@
+{
+  "drills": [
+    {
+      "name": "Passing Gates",
+      "objective": "Develop passing accuracy and weight of pass through controlled targets. Players learn to assess distance, select appropriate passing technique, and communicate effectively with teammates. This drill builds fundamental passing skills essential for all positions while encouraging quick decision-making and spatial awareness in a dynamic environment.",
+      "duration": 20,
+      "intervals": 4,
+      "activityTime": 4,
+      "restTime": 1,
+      "organization": "Set up 8-12 small gates (2 yards wide) using cones scattered randomly across a 30x30 yard grid. Organize players into pairs with one ball per pair. Gates should be positioned at varying distances and angles to encourage different passing techniques. Players must pass through gates to score points, with longer passes through distant gates earning bonus points. Rotate partners every interval to promote teamwork.",
+      "playerActions": [
+        "Scan the field to identify open gates before receiving the ball",
+        "Communicate with partner about which gate to target",
+        "Execute accurate passes through gates using inside of foot",
+        "Move immediately after passing to create new passing angles",
+        "Control the ball with first touch to set up next pass",
+        "Count successful passes and challenge personal records",
+        "Adjust passing power based on gate distance"
+      ],
+      "keyWords": [
+        "Accuracy",
+        "Communication",
+        "Weight of pass",
+        "First touch",
+        "Head up"
+      ],
+      "guidedQuestions": [
+        "How do you decide which gate to pass through?",
+        "What part of your foot gives you the most accuracy?",
+        "How can you help your partner be successful?",
+        "When should you use a harder versus softer pass?"
+      ],
+      "coachingPoints": [
+        "Plant foot should point toward target gate",
+        "Strike ball with inside of foot for accuracy",
+        "Follow through toward the target",
+        "Keep head up to scan for next opportunity",
+        "Communicate clearly and early with partner",
+        "First touch should prepare ball for next pass",
+        "Adjust body position to receive passes from different angles"
+      ],
+      "minPlayers": 4,
+      "maxPlayers": 20,
+      "applicableAgeGroups": ["U8", "U10", "U12", "U14", "U16+"],
+      "applicableFormations": ["1-2-1", "2-2-2", "2-3-2", "4-4-2", "4-3-3"],
+      "difficulty": "beginner",
+      "source": "US Soccer Grassroots"
+    },
+    {
+      "name": "1v1 Attacking",
+      "objective": "Enhance individual attacking skills including dribbling, change of pace, and beating defenders in isolated situations. Players develop confidence on the ball, learn multiple moves to unbalance opponents, and practice finishing under pressure. This drill emphasizes creativity, decision-making, and the mental toughness required to take on defenders in game situations.",
+      "duration": 18,
+      "intervals": 6,
+      "activityTime": 2,
+      "restTime": 1,
+      "organization": "Create multiple 15x10 yard channels with a small goal or cone goal at each end. Place one attacker and one defender in each channel with the attacker starting with the ball at one end. The attacker attempts to dribble past the defender and score within 20 seconds. After each attempt, players switch roles. Use multiple channels to maximize touches and minimize waiting time. Progress by adding constraints like specific moves or weaker foot only.",
+      "playerActions": [
+        "Approach defender with ball under close control",
+        "Use feints and body movements to unbalance defender",
+        "Accelerate into space after beating defender",
+        "Protect the ball using body positioning when needed",
+        "Execute finishing technique quickly after beating defender",
+        "Recognize when to use speed versus skill to beat opponent",
+        "Maintain positive attacking mentality even after unsuccessful attempts"
+      ],
+      "keyWords": [
+        "Confidence",
+        "Change of pace",
+        "Creativity",
+        "Protect the ball",
+        "Attack space",
+        "Finish"
+      ],
+      "guidedQuestions": [
+        "What clues does the defender give you about which way to attack?",
+        "When is the best moment to accelerate past the defender?",
+        "How can you use your body to protect the ball?",
+        "What happens if your first move doesn't work?"
+      ],
+      "coachingPoints": [
+        "Keep ball close when approaching defender",
+        "Use changes of speed and direction to create separation",
+        "Sell your feints with convincing body movements",
+        "Explode into space once defender is beaten",
+        "Keep body between ball and defender when protecting possession",
+        "Look up briefly to assess defender's position",
+        "Be brave and willing to take risks in attacking situations"
+      ],
+      "minPlayers": 4,
+      "maxPlayers": 16,
+      "applicableAgeGroups": ["U8", "U10", "U12", "U14", "U16+"],
+      "applicableFormations": ["1-1-2", "2-2-2", "3-2-2", "4-3-3", "4-2-4"],
+      "difficulty": "intermediate",
+      "source": "MA Youth Soccer"
+    },
+    {
+      "name": "4 Goal Game",
+      "objective": "Develop transition play awareness and quick decision-making when switching between attack and defense. Players learn to recognize scoring opportunities on multiple goals, communicate defensive assignments rapidly, and maintain tactical discipline during transitions. This drill emphasizes the importance of immediate reaction to possession changes and creates a high-intensity environment that mirrors game situations.",
+      "duration": 24,
+      "intervals": 3,
+      "activityTime": 6,
+      "restTime": 2,
+      "organization": "Set up a 40x30 yard field with four small goals positioned one on each sideline at the halfway point. Divide players into two teams of 5-7 players each. Teams can score on either of the two goals they are attacking and must defend the two goals on their side. No goalkeepers are used. Play continuous soccer with the coach feeding new balls quickly when balls go out. Emphasize quick transitions and constant awareness of all four goals.",
+      "playerActions": [
+        "Scan constantly to identify which goal offers best scoring opportunity",
+        "Transition immediately from attack to defense when possession is lost",
+        "Communicate loudly about defensive assignments during transitions",
+        "Support teammates by providing passing options near multiple goals",
+        "Press opponents quickly to prevent easy scoring opportunities",
+        "Recognize when to switch point of attack to opposite goal",
+        "Maintain compact team shape to defend both goals effectively"
+      ],
+      "keyWords": [
+        "Transition",
+        "Awareness",
+        "Communication",
+        "Quick decisions",
+        "Support",
+        "Press"
+      ],
+      "guidedQuestions": [
+        "How do you decide which goal to attack?",
+        "What should you do immediately when your team loses the ball?",
+        "How can you help your team defend two goals at once?",
+        "When is the right time to switch your attack to the other goal?",
+        "What information do you need to communicate during transitions?"
+      ],
+      "coachingPoints": [
+        "Keep head up to see all four goals and player positions",
+        "React immediately to possession changes with appropriate intensity",
+        "Communicate defensive assignments clearly and early",
+        "Attack the goal with fewer defenders or better angle",
+        "Maintain team compactness to cover both defensive goals",
+        "Support ball carrier from multiple angles",
+        "Recognize numerical advantages and exploit them quickly"
+      ],
+      "minPlayers": 10,
+      "maxPlayers": 14,
+      "applicableAgeGroups": ["U10", "U12", "U14", "U16+"],
+      "applicableFormations": ["2-2-2", "2-3-2", "3-2-2", "4-3-3", "4-4-2"],
+      "difficulty": "advanced",
+      "source": "US Soccer Grassroots"
+    },
+    {
+      "name": "Possession Rondo",
+      "objective": "Improve possession skills under pressure including quick passing, receiving, and support play in tight spaces. Players develop technical proficiency with both feet, learn to play with their head up, and understand the importance of constant movement to maintain possession. This drill builds the foundation for team possession play while improving individual technique and decision-making speed under defensive pressure.",
+      "duration": 16,
+      "intervals": 4,
+      "activityTime": 3,
+      "restTime": 1,
+      "organization": "Create circles of 10-12 yards diameter using cones or markers. Organize players into groups with 6-8 players on the outside of the circle maintaining possession and 2 players in the middle defending. Outside players are limited to two touches and must keep the ball moving. If defenders win the ball or force it out of the circle, the player who made the error switches with the defender who has been in the middle longest. Progress by reducing to one touch or adding additional defenders.",
+      "playerActions": [
+        "Move constantly to create passing angles for teammates",
+        "Receive the ball with an open body position to see the field",
+        "Play quickly with maximum two touches",
+        "Communicate with teammates about pressure and passing options",
+        "Anticipate where the ball will go next and adjust position",
+        "Use both feet to keep the ball moving efficiently",
+        "Defend aggressively when in the middle to win the ball back"
+      ],
+      "keyWords": [
+        "Movement",
+        "Quick play",
+        "Open body",
+        "Communication",
+        "Both feet",
+        "Anticipation"
+      ],
+      "guidedQuestions": [
+        "Where should you position yourself to help your teammate with the ball?",
+        "How does your first touch affect your second touch?",
+        "What can you do before receiving the ball to play faster?",
+        "How can you use your body position to see more of the field?",
+        "What makes it difficult for defenders to win the ball?"
+      ],
+      "coachingPoints": [
+        "First touch should be away from pressure and into space",
+        "Receive with an open body position to see multiple options",
+        "Play with your head up to recognize passing opportunities early",
+        "Move immediately after passing to create new angles",
+        "Use the inside and outside of both feet comfortably",
+        "Communicate early and clearly with ball carrier",
+        "Defenders should work together to press and cover passing lanes"
+      ],
+      "minPlayers": 8,
+      "maxPlayers": 20,
+      "applicableAgeGroups": ["U10", "U12", "U14", "U16+"],
+      "applicableFormations": ["2-3-2", "3-2-2", "3-2-3", "4-3-3", "4-4-2"],
+      "difficulty": "intermediate",
+      "source": "MA Youth Soccer"
+    },
+    {
+      "name": "Shooting Circuit",
+      "objective": "Develop finishing technique from various angles and distances while building confidence in front of goal. Players practice different shooting techniques including instep drives, side-foot placement, and volleys while learning to make quick decisions about shot selection. This drill emphasizes proper technique, composure under pressure, and the importance of following shots for rebounds in a high-repetition environment.",
+      "duration": 20,
+      "intervals": 4,
+      "activityTime": 4,
+      "restTime": 1,
+      "organization": "Set up 4-5 shooting stations around the penalty area with different scenarios at each station: Station 1 - dribble through cones and shoot; Station 2 - receive pass and shoot first time; Station 3 - control bouncing ball and shoot; Station 4 - shoot from distance; Station 5 - 1v1 with defender and shoot. Players rotate through stations in small groups. Use a goalkeeper if available or target specific areas of the goal. Collect balls efficiently to maximize repetitions.",
+      "playerActions": [
+        "Approach the ball with proper body position for shooting",
+        "Select appropriate shooting technique based on situation",
+        "Strike through the center of the ball with laces for power",
+        "Place shots using side of foot when accuracy is priority",
+        "Follow every shot for potential rebounds",
+        "Adjust technique based on goalkeeper position and distance",
+        "Maintain composure and confidence even after missed shots"
+      ],
+      "keyWords": [
+        "Technique",
+        "Composure",
+        "Follow through",
+        "Accuracy",
+        "Power",
+        "Confidence"
+      ],
+      "guidedQuestions": [
+        "How do you decide whether to shoot for power or placement?",
+        "Where should your plant foot be when shooting?",
+        "What part of your foot should you use for different types of shots?",
+        "Why is it important to follow your shot?",
+        "How does the goalkeeper's position affect where you should shoot?"
+      ],
+      "coachingPoints": [
+        "Plant foot should be beside the ball pointing at target",
+        "Strike through the center of the ball with laces for power shots",
+        "Keep head steady and eyes on the ball at moment of contact",
+        "Follow through toward the target with shooting foot",
+        "Keep body over the ball to keep shots low",
+        "Use arms for balance during shooting motion",
+        "Always follow shots anticipating rebounds or deflections"
+      ],
+      "minPlayers": 6,
+      "maxPlayers": 18,
+      "applicableAgeGroups": ["U8", "U10", "U12", "U14", "U16+"],
+      "applicableFormations": ["3-2-2", "3-2-3", "4-3-1", "4-3-3", "4-2-4"],
+      "difficulty": "beginner",
+      "source": "US Soccer Grassroots"
+    },
+    {
+      "name": "Defensive Shape",
+      "objective": "Teach team defending principles including compactness, communication, and coordinated pressure. Players learn to maintain proper defensive shape, understand their roles within the defensive unit, and work together to deny space and passing lanes. This drill emphasizes the collective responsibility of defending and develops the tactical awareness necessary for organized team defense in match situations.",
+      "duration": 20,
+      "intervals": 4,
+      "activityTime": 4,
+      "restTime": 1,
+      "organization": "Use half of the field with a full-size goal. Set up the defending team in their formation (typically 4 defenders, 3 midfielders) against 6-8 attackers who must stay in designated zones. Attackers attempt to possess the ball and create scoring opportunities while defenders work on maintaining shape, pressing as a unit, and winning the ball. Coach feeds balls to attackers and provides guidance on defensive positioning. Rotate defenders and attackers each interval.",
+      "playerActions": [
+        "Maintain proper distance from teammates to cover space effectively",
+        "Communicate constantly about pressure, cover, and balance",
+        "Press the ball carrier as a coordinated unit",
+        "Shift together as a defensive line when ball moves laterally",
+        "Recognize triggers to press versus drop and contain",
+        "Cover teammates who step forward to challenge for the ball",
+        "Transition quickly to attack when ball is won"
+      ],
+      "keyWords": [
+        "Compactness",
+        "Communication",
+        "Pressure",
+        "Cover",
+        "Balance",
+        "Shift together"
+      ],
+      "guidedQuestions": [
+        "How far apart should you be from your defensive teammates?",
+        "What should you communicate to help your team defend?",
+        "When should your team press forward versus drop back?",
+        "What is your responsibility when a teammate steps to pressure the ball?",
+        "How does the defensive line move when the ball is passed sideways?"
+      ],
+      "coachingPoints": [
+        "Maintain compactness with 5-10 yards between defenders",
+        "Communicate roles clearly: pressure, cover, balance",
+        "Press as a unit when trigger occurs (bad touch, back pass)",
+        "Shift laterally together to stay compact as ball moves",
+        "Nearest defender pressures ball while others provide cover",
+        "Deny dangerous passing lanes through proper positioning",
+        "Stay organized and patient rather than diving into tackles"
+      ],
+      "minPlayers": 10,
+      "maxPlayers": 16,
+      "applicableAgeGroups": ["U10", "U12", "U14", "U16+"],
+      "applicableFormations": ["2-3-2", "3-2-2", "4-3-1", "4-4-2", "4-3-3"],
+      "difficulty": "advanced",
+      "source": "MA Youth Soccer"
+    },
+    {
+      "name": "Small-Sided Game 4v4",
+      "objective": "Apply all soccer skills in a game environment that maximizes touches and decision-making opportunities. Players experience frequent involvement with the ball, practice transitioning between attack and defense, and develop game intelligence through realistic scenarios. This format encourages creativity, builds confidence, and allows players to experiment with skills in a less structured environment while still emphasizing teamwork and tactical awareness.",
+      "duration": 24,
+      "intervals": 3,
+      "activityTime": 6,
+      "restTime": 2,
+      "organization": "Create 30x20 yard fields with small goals (4-6 feet wide) at each end. No goalkeepers are used. Divide players into teams of four and play continuous games with minimal stoppages. Coach should have extra balls ready to keep play flowing. Encourage free play but provide brief coaching moments during rest intervals. Consider rotating teams or players between intervals to create new matchups and maintain engagement. Adjust field size based on age and skill level.",
+      "playerActions": [
+        "Make quick decisions with the ball based on game situation",
+        "Support teammates both in attack and defense",
+        "Communicate constantly about positioning and opportunities",
+        "Transition immediately when possession changes",
+        "Take appropriate risks to create scoring chances",
+        "Work hard to win the ball back when defending",
+        "Demonstrate creativity and try skills learned in training"
+      ],
+      "keyWords": [
+        "Decision-making",
+        "Support",
+        "Transition",
+        "Communication",
+        "Creativity",
+        "Work rate"
+      ],
+      "guidedQuestions": [
+        "How can you help your teammate who has the ball?",
+        "What should you do immediately when your team loses possession?",
+        "When is a good time to dribble versus pass?",
+        "How can you create space for yourself or teammates?",
+        "What did you learn from that game situation?"
+      ],
+      "coachingPoints": [
+        "Encourage players to play freely and express themselves",
+        "Emphasize quick transitions between attack and defense",
+        "Support ball carrier from multiple angles",
+        "Communicate clearly and positively with teammates",
+        "Take calculated risks in attacking third",
+        "Work hard defensively to win ball back quickly",
+        "Celebrate effort and creativity, not just goals"
+      ],
+      "minPlayers": 8,
+      "maxPlayers": 16,
+      "applicableAgeGroups": ["U6", "U8", "U10", "U12"],
+      "applicableFormations": ["1-2-1", "1-1-2", "2-2-2", "2-3-2"],
+      "difficulty": "beginner",
+      "source": "US Soccer Grassroots"
+    },
+    {
+      "name": "Crossing and Finishing",
+      "objective": "Develop wing play and finishing skills from crosses including timing of runs, quality of delivery, and finishing technique in the penalty area. Players learn to deliver accurate crosses from various positions, make intelligent runs to attack crosses, and finish under pressure with defenders present. This drill emphasizes the coordination between wide players and central attackers essential for creating scoring opportunities from wide areas.",
+      "duration": 20,
+      "intervals": 5,
+      "activityTime": 3,
+      "restTime": 1,
+      "organization": "Set up full penalty area with goal and goalkeeper. Position servers on both wings with supply of balls. Create two lines of attackers starting at the top of the penalty area. Wide players dribble toward the end line and deliver crosses while attackers time their runs to arrive in dangerous positions. Include 1-2 passive defenders to add realism. Rotate roles every interval so all players practice crossing and finishing. Progress by adding active defenders and varying crossing positions.",
+      "playerActions": [
+        "Wide players dribble at speed toward crossing position",
+        "Deliver crosses with appropriate pace and trajectory",
+        "Attackers time runs to arrive as ball reaches dangerous area",
+        "Attack the ball aggressively with head or feet",
+        "Make near post, far post, and penalty spot runs",
+        "Follow all crosses for rebounds and second chances",
+        "Communicate about timing and type of run being made"
+      ],
+      "keyWords": [
+        "Timing",
+        "Quality of cross",
+        "Attack the ball",
+        "Near post run",
+        "Far post run",
+        "Aggressive"
+      ],
+      "guidedQuestions": [
+        "When should you start your run to meet the cross?",
+        "What type of cross works best from different positions?",
+        "How can you lose your defender to get free for the cross?",
+        "Where should you aim your cross to create the best chance?",
+        "What part of your body should you use to finish different crosses?"
+      ],
+      "coachingPoints": [
+        "Wide players should get head up before crossing to see attackers",
+        "Deliver crosses with pace but not so hard they can't be controlled",
+        "Attackers should time runs to arrive with momentum as ball arrives",
+        "Attack the ball at highest point when heading",
+        "Make runs across defenders to create separation",
+        "Near post runs should be aggressive and direct",
+        "Far post runs should be timed to arrive as ball drops"
+      ],
+      "minPlayers": 8,
+      "maxPlayers": 16,
+      "applicableAgeGroups": ["U12", "U14", "U16+"],
+      "applicableFormations": ["3-2-3", "4-3-1", "4-3-3", "4-2-4", "4-4-2"],
+      "difficulty": "intermediate",
+      "source": "MA Youth Soccer"
+    },
+    {
+      "name": "First Touch Control",
+      "objective": "Master ball control with various surfaces of the body to receive passes from different angles and heights. Players develop the technical ability to control bouncing balls, aerial balls, and ground passes while learning to direct their first touch into space away from pressure. This drill builds the fundamental skill of receiving that underpins all other technical abilities and emphasizes the importance of a quality first touch in maintaining possession.",
+      "duration": 16,
+      "intervals": 4,
+      "activityTime": 3,
+      "restTime": 1,
+      "organization": "Set up multiple stations in a 30x30 yard grid with different first touch challenges. Station 1: Partner serves balls at various heights to control; Station 2: Control balls bouncing from a wall; Station 3: Receive passes while moving; Station 4: Control with specific body parts (thigh, chest, foot). Players work in pairs or small groups rotating through stations. Servers should vary the pace, height, and angle of deliveries to challenge receivers. Progress by adding passive defenders or time pressure.",
+      "playerActions": [
+        "Get in line with the ball's flight path early",
+        "Select appropriate body surface based on ball trajectory",
+        "Cushion the ball by withdrawing the controlling surface",
+        "Direct first touch into space away from imaginary pressure",
+        "Maintain balance and body control during reception",
+        "Prepare body position before ball arrives",
+        "Follow first touch with quick second action"
+      ],
+      "keyWords": [
+        "Soft touch",
+        "Cushion",
+        "Into space",
+        "Body position",
+        "Balance",
+        "Preparation"
+      ],
+      "guidedQuestions": [
+        "How do you prepare your body before the ball arrives?",
+        "What does it mean to cushion the ball?",
+        "Where should your first touch take the ball?",
+        "Which part of your body should you use for different types of passes?",
+        "How can you make your second touch easier with a good first touch?"
+      ],
+      "coachingPoints": [
+        "Get in line with the ball early and adjust as needed",
+        "Relax the controlling surface and withdraw it slightly on contact",
+        "Use inside of foot for ground balls, laces for bouncing balls",
+        "Direct first touch into space, not back toward pressure",
+        "Keep eyes on the ball until it's under control",
+        "Maintain low center of gravity for better balance",
+        "Quality first touch makes everything else easier"
+      ],
+      "minPlayers": 6,
+      "maxPlayers": 20,
+      "applicableAgeGroups": ["U8", "U10", "U12", "U14", "U16+"],
+      "applicableFormations": ["1-2-1", "2-2-2", "2-3-2", "4-3-3", "4-4-2"],
+      "difficulty": "beginner",
+      "source": "US Soccer Grassroots"
+    },
+    {
+      "name": "Transition Game",
+      "objective": "Develop rapid transition skills from attack to defense and defense to attack with emphasis on immediate reaction to possession changes. Players learn to recognize transition moments, adjust their roles instantly, and execute appropriate actions based on whether they've won or lost possession. This drill creates a high-intensity environment that mirrors the demanding physical and mental requirements of modern soccer where transitions often determine match outcomes.",
+      "duration": 20,
+      "intervals": 4,
+      "activityTime": 4,
+      "restTime": 1,
+      "organization": "Create a 50x40 yard field with a full-size goal at one end and two small goals at the other end. Organize teams of 6-8 players. The team attacking the large goal has a goalkeeper while the team attacking the small goals plays without one. When possession changes, teams must transition immediately to their new role. The team that loses possession must recover defensively while the team winning possession attacks quickly. Coach feeds new balls to maintain intensity and can award bonus points for goals scored within 5 seconds of winning possession.",
+      "playerActions": [
+        "Recognize immediately when possession changes",
+        "Sprint to recover defensive position when ball is lost",
+        "Attack quickly with numbers when possession is won",
+        "Communicate transition responsibilities loudly and clearly",
+        "Make forward runs immediately when team wins ball",
+        "Press aggressively to win ball back quickly after losing it",
+        "Maintain high work rate throughout entire activity"
+      ],
+      "keyWords": [
+        "Immediate reaction",
+        "Counter-attack",
+        "Recovery runs",
+        "Intensity",
+        "Communication",
+        "Speed of play"
+      ],
+      "guidedQuestions": [
+        "What should you do in the first three seconds after your team loses the ball?",
+        "How can you create a quick scoring chance when you win possession?",
+        "What makes a good counter-attacking opportunity?",
+        "How do you decide whether to press or recover when you lose the ball?",
+        "Why is communication so important during transitions?"
+      ],
+      "coachingPoints": [
+        "React within one second of possession change",
+        "Make immediate recovery runs when ball is lost",
+        "Attack with speed and numbers when possession is won",
+        "Communicate roles clearly during chaotic transition moments",
+        "Recognize when to counter-attack versus possess and build",
+        "Press intelligently to prevent opponent's counter-attack",
+        "Maintain maximum intensity throughout the drill"
+      ],
+      "minPlayers": 12,
+      "maxPlayers": 16,
+      "applicableAgeGroups": ["U12", "U14", "U16+"],
+      "applicableFormations": ["3-2-2", "3-2-3", "4-3-1", "4-3-3", "4-4-2"],
+      "difficulty": "advanced",
+      "source": "MA Youth Soccer"
+    }
+  ]
+}

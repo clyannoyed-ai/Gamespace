@@ -1,0 +1,16 @@
+Comprehensive Soccer Training Curriculum Blueprint (U6 to U14) - Technical Data Overlay
+This blueprint includes highly detailed kinematic and environmental data (Object Creation & Alignment/Kinematics) for every drill, optimizing the curriculum for accurate AI simulation and movement analysis.
+Field Geometry: 120 units (Length) x 80 units (Width) (Master Field)
+1. Standard Object Definitions
+These objects are referenced by their shorthand codes in the drill tables for efficient data representation. Dimensions are in field units.
+2. Training Curriculum by Age Group
+A. U6 Grassroots Blueprint (Ages 5-6) - Focus: Ball Familiarity & Individual Control
+Training Area: 45x30 unit area (X: 37.5 to 82.5, Y: 25 to 55)
+B. U8 Grassroots Blueprint (Ages 7-8) - Focus: Decision Making in Small Spaces & Basic Passing
+Training Area: 60x40 unit area (X: 30-90, Y: 20-60)
+C. U10 Grassroots Blueprint (Ages 9-10) - Focus: Positional Awareness & Combination Play
+Training Area: 90x60 unit area (X: 15-105, Y: 10-70)
+D. U12 Grassroots Blueprint (Ages 11-12) - Focus: Positional Discipline & Group Tactics (9v9)
+Training Area: 100x70 unit area (X: 10-110, Y: 5-75)
+E. U14 Grassroots Blueprint (Ages 13-14) - Focus: Tactical Principles & Set Pieces (11v11 Prep)
+Training Area: 120x80 full field (X: 0-120, Y: 0-80)

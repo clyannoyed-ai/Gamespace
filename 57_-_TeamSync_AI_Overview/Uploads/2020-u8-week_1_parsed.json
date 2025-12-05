@@ -1,0 +1,219 @@
+{
+  "sessionMetadata": {
+    "ageGroup": "U8",
+    "format": "4v4",
+    "goal": "PLAYER ACTIONS",
+    "playerActions": [
+      "KEY QUALITIES"
+    ],
+    "keyQualities": [
+      "MOMENT"
+    ],
+    "playerCount": "60"
+  },
+  "drills": [
+    {
+      "name": "Intentional Free Play",
+      "type": "PLAY PHASE",
+      "ageGroup": "U8",
+      "focus": "Build Up",
+      "category": "PLAY PHASE",
+      "duration": 20,
+      "intervals": 3,
+      "activityTime": "4 minutes",
+      "restTime": "1 min",
+      "objective": "To pass or dribble past an opponent in order to move the ball into the attacking half",
+      "playerActions": [
+        "Pass or dribble forward",
+        "Spread out"
+      ],
+      "organization": "Divide your (25W x 35L) game field into two 15W x 25L fields with a small goal",
+      "keyWords": [
+        "Play forward",
+        "find your teammate"
+      ],
+      "guidedQuestions": [
+        "If you see an opening in front of you, what should you do?",
+        "When should\nyou pass instead of dribble?"
+      ],
+      "answers": [
+        "Play forward and to goal whenever possible",
+        "If all the openings in front of you are\nclosed, pass to a teammate to see if they can find an opening forward"
+      ],
+      "coachingNotes": "Encourage players to dribble to goal. At the first break, ask questions which generate thoughts",
+      "fieldSize": "25x35",
+      "totalDuration": 20,
+      "sessionGoal": "PLAYER ACTIONS",
+      "sessionPlayerActions": [
+        "KEY QUALITIES"
+      ],
+      "sessionKeyQualities": [
+        "MOMENT"
+      ]
+    },
+    {
+      "name": "Partner Bandits",
+      "type": "CORE ACTIVITY",
+      "ageGroup": "U8",
+      "focus": "Build Up",
+      "category": "CORE ACTIVITY",
+      "duration": 18,
+      "intervals": 9,
+      "activityTime": "90 seconds",
+      "restTime": "30 sec",
+      "objective": "To move the ball forward past the bandits and score",
+      "playerActions": [
+        "Pass or dribble forward"
+      ],
+      "organization": "In a 25Wx35L grid, a 6Wx3L yard box goal on each end line & all players in pairs, the coach will select 1",
+      "keyWords": [
+        "Look up",
+        "find an opening",
+        "play through it"
+      ],
+      "guidedQuestions": [
+        "Where can you go if the bandit is closing your opening to the goal?",
+        "What are some ways you can\nplay the ball through an opening?",
+        "Which part of your foot can you use to dribble forward?"
+      ],
+      "answers": [
+        "Tell your teammate to move to create a new opening",
+        "You can dribble through or pass through the openings",
+        "Use your laces by pointing your toe down, making a fist with your toe & use your laces to push the ball forward\nNote: If a bandit steals a ball and get it to a hideout, they can now begin scoring goals"
+      ],
+      "coachingNotes": "If a bandit steals a ball and get it to a hideout, they can now begin scoring goals. The team that lost their ball must",
+      "rules": "bandits cannot defend inside of the goals.",
+      "fieldSize": "25x35",
+      "totalDuration": 18,
+      "sessionGoal": "PLAYER ACTIONS",
+      "sessionPlayerActions": [
+        "KEY QUALITIES"
+      ],
+      "sessionKeyQualities": [
+        "MOMENT"
+      ]
+    },
+    {
+      "name": "Bandits (Coach is it)",
+      "type": "LESS CHALLENGING",
+      "ageGroup": "U8",
+      "focus": "Build Up",
+      "category": "LESS CHALLENGING",
+      "duration": 18,
+      "intervals": 9,
+      "activityTime": "90 seconds",
+      "restTime": "30 sec",
+      "objective": "To move the ball forward past the bandits and score",
+      "playerActions": [
+        "Dribble forward"
+      ],
+      "organization": "In a 25Wx35L grid, a 6Wx3L yard box goal on each end line & all players with a soccer ball, the",
+      "keyWords": [
+        "Look up",
+        "find an opening",
+        "be patient"
+      ],
+      "guidedQuestions": [
+        "Where can you go if another dribbler is in your way?",
+        "What can you do if the bandit/coach\nis blocking the goal?",
+        "Which part of your foot can you use to dribble forward?"
+      ],
+      "answers": [
+        "Look up to find a new opening to the goal",
+        "Be patient, dribble away from the bandit then pick a new\nroute to the goal"
+      ],
+      "coachingNotes": "Once the players understand the direction & where to score, challenge them to work with a partner. The 2",
+      "rules": "bandits cannot defend inside of the",
+      "fieldSize": "25x35",
+      "totalDuration": 18,
+      "sessionGoal": "PLAYER ACTIONS",
+      "sessionPlayerActions": [
+        "KEY QUALITIES"
+      ],
+      "sessionKeyQualities": [
+        "MOMENT"
+      ]
+    },
+    {
+      "name": "Multiple 2v2 to Goal",
+      "type": "MORE CHALLENGING",
+      "ageGroup": "U8",
+      "focus": "Build Up",
+      "category": "MORE CHALLENGING",
+      "duration": 18,
+      "intervals": 6,
+      "activityTime": "2 minutes",
+      "restTime": "1 min",
+      "objective": "To move the ball forward past the bandits and score",
+      "playerActions": [
+        "Pass or dribble forward",
+        "spread out"
+      ],
+      "organization": "In a 25Wx35L grid, a 6Wx3L yard box goal on each end line, coach will create teams of 2",
+      "keyWords": [
+        "Look up",
+        "find an opening",
+        "play through it"
+      ],
+      "guidedQuestions": [
+        "What are some obstacles you must look for in this game?",
+        "How can you help your team\ncreate an opening?",
+        "Which part of your foot can you use to dribble forward?"
+      ],
+      "answers": [
+        "You must look up to find your teammates, the goal, the opponents & other players using the field",
+        "If\nyou see space away from the crowd and you can still get the ball, spread out into that new space to help create a\nnew opening"
+      ],
+      "coachingNotes": "If you have more than 4 teams, either rotate teams are set up a second field. If the game is too chaotic,",
+      "rules": "A goal is scored be either dribbling into a goal or passing to a teammate into the",
+      "fieldSize": "25x35",
+      "totalDuration": 18,
+      "sessionGoal": "PLAYER ACTIONS",
+      "sessionPlayerActions": [
+        "KEY QUALITIES"
+      ],
+      "sessionKeyQualities": [
+        "MOMENT"
+      ]
+    },
+    {
+      "name": "The Game",
+      "type": "PLAY PHASE",
+      "ageGroup": "U8",
+      "focus": "Build Up",
+      "category": "PLAY PHASE",
+      "duration": 22,
+      "intervals": 2,
+      "activityTime": "9 minutes",
+      "restTime": "2 min",
+      "objective": "To pass or dribble past an opponent then score goals.",
+      "playerActions": [
+        "Pass or dribble forward",
+        "spread out"
+      ],
+      "organization": "In a 25Wx35L field & a small goal on each end line, play a 4v4 game with no goal",
+      "keyWords": [
+        "Turn",
+        "open up",
+        "score goals"
+      ],
+      "guidedQuestions": [
+        "Who should determine whether to pass, dribble or shoot?",
+        "What can you do to\nhelp your teammate with the ball make that decision?"
+      ],
+      "answers": [
+        "The player with the ball should make that decision (coaches-it\u2019s important to allow the\nplayers the freedom to make their own decision"
+      ],
+      "coachingNotes": "Depending on your local rules, coaches may introduce throw-ins, corner kicks & goal kicks if",
+      "fieldSize": "25x35",
+      "totalDuration": 22,
+      "sessionGoal": "PLAYER ACTIONS",
+      "sessionPlayerActions": [
+        "KEY QUALITIES"
+      ],
+      "sessionKeyQualities": [
+        "MOMENT"
+      ]
+    }
+  ]
+}
